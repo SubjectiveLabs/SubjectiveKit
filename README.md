@@ -11,6 +11,9 @@ _Currently the schools JSON includes:_
 - School Notices
 - Links
 
+## Usage
+The JSON is available in the repository as schools.json or hosted online at [openschools.vercel.app/schools.json](https://openschools.vercel.app/schools.json)
+
 ## Contribute
 Openschools is the library of school data used for Subjective Discovery _(schools made publicly available on Subjective)_.
 
