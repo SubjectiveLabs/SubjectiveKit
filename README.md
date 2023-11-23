@@ -12,7 +12,7 @@ _Currently the schools JSON includes:_
 - Links
 
 ## Usage
-The Openschools JSON is available in the repository as _schools.json_ or hosted online at [openschools.vercel.app/schools.json](https://openschools.vercel.app/schools.json)
+The Openschools JSON is available in the repository at _/schools.json_ or hosted online at [https://subjectivelabs.github.io/Openschools/schools.json](https://subjectivelabs.github.io/Openschools/schools.json)
 
 ## Contribute
 Openschools is the library of school data used for Subjective Discovery _(schools made publicly available on Subjective)_.
@@ -25,7 +25,7 @@ Help the Subjective and Openschools project by adding your school.
 
 ## Licencing
 
-Openschools is an open source project licensed under the Mozilla Public License 2.0 (MPL 2.0), in which terms and conditions can be found at _LICENSE_.
+Openschools is an open source project licensed under the Mozilla Public License 2.0 (MPL 2.0), in which its terms can be found at _LICENSE_.
 
 
 
