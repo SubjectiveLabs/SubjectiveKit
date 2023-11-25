@@ -1,5 +1,4 @@
-{
-  "schools": [
+[
     {
       "name": "Baulkham Hills High School",
       "bellTimes": [
@@ -1369,4 +1368,3 @@
       "userCreated": false
     }
   ]
-}
