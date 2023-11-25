@@ -3,7 +3,7 @@ Subjective's commitment to **empowering** a deeper **school-student relationship
 
 We're helping **developers** create **better school-tailored** student software with our open source Openschools project.
 
-Openschools makes our growing library of public school data and information on Subjective available for use in a JSON format _(schools.json)_.
+Openschools makes our growing library of public school data and information on Subjective available for use in a JSON format.
 
 _Currently the schools JSON includes:_
 - School Name
@@ -12,7 +12,7 @@ _Currently the schools JSON includes:_
 - Links
 
 ## Usage
-The Openschools JSON is available in the repository at _/schools.json_ or hosted online at [https://subjectivelabs.github.io/Openschools/schools.json](https://subjectivelabs.github.io/Openschools/schools.json)
+The Openschools JSON is available in the repository at `/schools.json`  or hosted online at [https://subjectivelabs.github.io/Openschools/schools.json](https://subjectivelabs.github.io/Openschools/schools.json)
 
 ## Contribute
 Openschools is the library of school data used for Subjective Discovery _(schools made publicly available on Subjective)_.
@@ -20,7 +20,16 @@ Openschools is the library of school data used for Subjective Discovery _(school
 Help the Subjective and Openschools project by adding your school.
 
 1. Fork and clone the repository.
-2. Add your school to the _schools.json_ file ensuring **all** required fields are included.
+2. Add your school to the `schools.json` file ensuring **all** required fields are included.
+
+### Create
+
+Adding your school to Openschools is easy with Subjective Assembly, our open-source live school data self-hosted API for Subjective.
+Zero code, all done in a simple user interface.
+
+Once school configuartion is completed in the Assembly interface, the created JSON in`/backend/static/school` can be added to the `schools.json` file.
+ 
+
 3. Submit a detailed pull request with school name, and to ensure **only public data** is made available on Openschools, attach either a **link** to where the data was retrieved from or **written permission** from school executive staff.
 
 ## Licencing
