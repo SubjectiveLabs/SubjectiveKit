@@ -29,12 +29,13 @@ jobs:
       - name: Install tools
         run: sudo apt-get install jq
       - name: Minify file
-        run: cat schools.json | jq -c > schools.json
+        run: mkdir public && cat schools.json | jq -c > ./public/schools.json
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
-          path: '.'
+          path: './public'
+          
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
