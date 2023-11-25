@@ -2,343 +2,1368 @@
   "schools": [
     {
       "name": "Baulkham Hills High School",
-      "bellTimes": {
-        "Monday": [
-          {"name": "Period 1", "hour": 8, "minute": 38},
-          {"name": "Period 2", "hour": 9, "minute": 17},
-          {"name": "Assembly", "hour": 9, "minute": 54},
-          {"name": "Recess", "hour": 10, "minute": 19},
-          {"name": "Period 3", "hour": 10, "minute": 39},
-          {"name": "Period 4", "hour": 11, "minute": 16},
-          {"name": "Break", "hour": 11, "minute": 53},
-          {"name": "Period 5", "hour": 11, "minute": 58},
-          {"name": "Period 6", "hour": 12, "minute": 35},
-          {"name": "Lunch", "hour": 13, "minute": 12},
-          {"name": "Period 7", "hour": 13, "minute": 52},
-          {"name": "Period 8", "hour": 14, "minute": 29},
-          {"name": "End", "hour": 15, "minute": 6}
+      "bellTimes": [
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 38
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 17
+          },
+          {
+            "name": "Assembly",
+            "hour": 9,
+            "minute": 54
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 19
+          },
+          {
+            "name": "Period 3",
+            "hour": 10,
+            "minute": 39
+          },
+          {
+            "name": "Period 4",
+            "hour": 11,
+            "minute": 16
+          },
+          {
+            "name": "Break",
+            "hour": 11,
+            "minute": 53
+          },
+          {
+            "name": "Period 5",
+            "hour": 11,
+            "minute": 58
+          },
+          {
+            "name": "Period 6",
+            "hour": 12,
+            "minute": 35
+          },
+          {
+            "name": "Lunch",
+            "hour": 13,
+            "minute": 12
+          },
+          {
+            "name": "Period 7",
+            "hour": 13,
+            "minute": 52
+          },
+          {
+            "name": "Period 8",
+            "hour": 14,
+            "minute": 29
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 6
+          }
         ],
-        "Tuesday": [
-          {"name": "Period 1", "hour": 8, "minute": 38},
-          {"name": "Period 2", "hour": 9, "minute": 21},
-          {"name": "Recess", "hour": 10, "minute": 1},
-          {"name": "Period 3", "hour": 10, "minute": 21},
-          {"name": "Period 4", "hour": 11, "minute": 1},
-          {"name": "Break", "hour": 11, "minute": 41},
-          {"name": "Period 5", "hour": 11, "minute": 46},
-          {"name": "Period 6", "hour": 12, "minute": 26},
-          {"name": "Lunch", "hour": 13, "minute": 6},
-          {"name": "Period 7", "hour": 13, "minute": 46},
-          {"name": "Period 8", "hour": 14, "minute": 26},
-          {"name": "End", "hour": 15, "minute": 6}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 38
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 21
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 1
+          },
+          {
+            "name": "Period 3",
+            "hour": 10,
+            "minute": 21
+          },
+          {
+            "name": "Period 4",
+            "hour": 11,
+            "minute": 1
+          },
+          {
+            "name": "Break",
+            "hour": 11,
+            "minute": 41
+          },
+          {
+            "name": "Period 5",
+            "hour": 11,
+            "minute": 46
+          },
+          {
+            "name": "Period 6",
+            "hour": 12,
+            "minute": 26
+          },
+          {
+            "name": "Lunch",
+            "hour": 13,
+            "minute": 6
+          },
+          {
+            "name": "Period 7",
+            "hour": 13,
+            "minute": 46
+          },
+          {
+            "name": "Period 8",
+            "hour": 14,
+            "minute": 26
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 6
+          }
         ],
-        "Wednesday": [
-          {"name": "Period 1", "hour": 8, "minute": 38},
-          {"name": "Period 2", "hour": 9, "minute": 18},
-          {"name": "Recess", "hour": 9, "minute": 56},
-          {"name": "Period 3", "hour": 10, "minute": 11},
-          {"name": "Period 4", "hour": 10, "minute": 49},
-          {"name": "Period 5", "hour": 11, "minute": 27},
-          {"name": "Lunch", "hour": 12, "minute": 5},
-          {"name": "Sport/Period 6", "hour": 12, "minute": 30},
-          {"name": "Period 7", "hour": 13, "minute": 11},
-          {"name": "Period 8", "hour": 13, "minute": 50},
-          {"name": "End", "hour": 14, "minute": 30}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 38
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 18
+          },
+          {
+            "name": "Recess",
+            "hour": 9,
+            "minute": 56
+          },
+          {
+            "name": "Period 3",
+            "hour": 10,
+            "minute": 11
+          },
+          {
+            "name": "Period 4",
+            "hour": 10,
+            "minute": 49
+          },
+          {
+            "name": "Period 5",
+            "hour": 11,
+            "minute": 27
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 5
+          },
+          {
+            "name": "Sport/Period 6",
+            "hour": 12,
+            "minute": 30
+          },
+          {
+            "name": "Period 7",
+            "hour": 13,
+            "minute": 11
+          },
+          {
+            "name": "Period 8",
+            "hour": 13,
+            "minute": 50
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 30
+          }
         ],
-        "Thursday": [
-          {"name": "Period 1", "hour": 8, "minute": 38},
-          {"name": "Period 2", "hour": 9, "minute": 21},
-          {"name": "Recess", "hour": 10, "minute": 1},
-          {"name": "Period 3", "hour": 10, "minute": 21},
-          {"name": "Period 4", "hour": 11, "minute": 1},
-          {"name": "Break", "hour": 11, "minute": 41},
-          {"name": "Period 5", "hour": 11, "minute": 46},
-          {"name": "Period 6", "hour": 12, "minute": 26},
-          {"name": "Lunch", "hour": 13, "minute": 6},
-          {"name": "Period 7", "hour": 13, "minute": 46},
-          {"name": "Period 8", "hour": 14, "minute": 26},
-          {"name": "End", "hour": 15, "minute": 6}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 38
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 21
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 1
+          },
+          {
+            "name": "Period 3",
+            "hour": 10,
+            "minute": 21
+          },
+          {
+            "name": "Period 4",
+            "hour": 11,
+            "minute": 1
+          },
+          {
+            "name": "Break",
+            "hour": 11,
+            "minute": 41
+          },
+          {
+            "name": "Period 5",
+            "hour": 11,
+            "minute": 46
+          },
+          {
+            "name": "Period 6",
+            "hour": 12,
+            "minute": 26
+          },
+          {
+            "name": "Lunch",
+            "hour": 13,
+            "minute": 6
+          },
+          {
+            "name": "Period 7",
+            "hour": 13,
+            "minute": 46
+          },
+          {
+            "name": "Period 8",
+            "hour": 14,
+            "minute": 26
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 6
+          }
         ],
-        "Friday": [
-          {"name": "Period 1", "hour": 8, "minute": 38},
-          {"name": "Period 2", "hour": 9, "minute": 21},
-          {"name": "Recess", "hour": 10, "minute": 1},
-          {"name": "Period 3", "hour": 10, "minute": 26},
-          {"name": "Period 4", "hour": 11, "minute": 6},
-          {"name": "Break", "hour": 11, "minute": 46},
-          {"name": "Period 5", "hour": 11, "minute": 51},
-          {"name": "Period 6", "hour": 12, "minute": 31},
-          {"name": "Lunch", "hour": 13, "minute": 11},
-          {"name": "Period 7", "hour": 13, "minute": 46},
-          {"name": "Period 8", "hour": 14, "minute": 26},
-          {"name": "End", "hour": 15, "minute": 6}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 38
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 21
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 1
+          },
+          {
+            "name": "Period 3",
+            "hour": 10,
+            "minute": 26
+          },
+          {
+            "name": "Period 4",
+            "hour": 11,
+            "minute": 6
+          },
+          {
+            "name": "Break",
+            "hour": 11,
+            "minute": 46
+          },
+          {
+            "name": "Period 5",
+            "hour": 11,
+            "minute": 51
+          },
+          {
+            "name": "Period 6",
+            "hour": 12,
+            "minute": 31
+          },
+          {
+            "name": "Lunch",
+            "hour": 13,
+            "minute": 11
+          },
+          {
+            "name": "Period 7",
+            "hour": 13,
+            "minute": 46
+          },
+          {
+            "name": "Period 8",
+            "hour": 14,
+            "minute": 26
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 6
+          }
         ]
-      },
+      ],
       "links": [
-        {"title": "Sentral", "destination": "https://baulkham-h.sentral.com.au/portal2/", "icon": "person.crop.square.filled.and.at.rectangle.fill"},
-        {"title": "Moodle", "destination": "https://web1.baulkham-h.schools.nsw.edu.au/", "icon": "folder.fill"}
+        {
+          "title": "Sentral",
+          "destination": "https://baulkham-h.sentral.com.au/portal2/",
+          "icon": "person.crop.square.filled.and.at.rectangle.fill"
+        },
+        {
+          "title": "Moodle",
+          "destination": "https://web1.baulkham-h.schools.nsw.edu.au/",
+          "icon": "folder.fill"
+        }
       ],
       "notices": [],
       "userCreated": false
     },
     {
       "name": "James Ruse Agricultural High School",
-      "bellTimes": {
-        "Monday": [
-          {"name": "Period 1", "hour": 8, "minute": 50},
-          {"name": "Period 2", "hour": 9, "minute": 55},
-          {"name": "Recess", "hour": 11, "minute": 0},
-          {"name": "Period 3", "hour": 11, "minute": 25},
-          {"name": "Period 4", "hour": 12, "minute": 25},
-          {"name": "Lunch", "hour": 13, "minute": 25},
-          {"name": "Period 5", "hour": 14, "minute": 5},
-          {"name": "End", "hour": 15, "minute": 5}
+      "bellTimes": [
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 0
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
         ],
-        "Tuesday": [
-          {"name": "Period 1", "hour": 8, "minute": 50},
-          {"name": "Period 2", "hour": 9, "minute": 55},
-          {"name": "Recess", "hour": 11, "minute": 0},
-          {"name": "Period 3", "hour": 11, "minute": 25},
-          {"name": "Period 4", "hour": 12, "minute": 25},
-          {"name": "Lunch", "hour": 13, "minute": 25},
-          {"name": "Period 5", "hour": 14, "minute": 5},
-          {"name": "End", "hour": 15, "minute": 5}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 0
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
         ],
-        "Wednesday": [
-          {"name": "Period 1", "hour": 8, "minute": 50},
-          {"name": "Period 2", "hour": 9, "minute": 45},
-          {"name": "Assembly", "hour": 10, "minute": 40},
-          {"name": "Recess", "hour": 10, "minute": 55},
-          {"name": "Period 3", "hour": 11, "minute": 55},
-          {"name": "Lunch/Sport", "hour": 12, "minute": 10},
-          {"name": "Period 4", "hour": 12, "minute": 40},
-          {"name": "Period 5", "hour": 13, "minute": 35},
-          {"name": "Scripture", "hour": 14, "minute": 30},
-          {"name": "End", "hour": 15, "minute": 5}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 45
+          },
+          {
+            "name": "Assembly",
+            "hour": 10,
+            "minute": 40
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 55
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 55
+          },
+          {
+            "name": "Lunch/Sport",
+            "hour": 12,
+            "minute": 10
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 40
+          },
+          {
+            "name": "Period 5",
+            "hour": 13,
+            "minute": 35
+          },
+          {
+            "name": "Scripture",
+            "hour": 14,
+            "minute": 30
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
         ],
-        "Thursday": [
-          {"name": "Period 1", "hour": 8, "minute": 50},
-          {"name": "Period 2", "hour": 9, "minute": 55},
-          {"name": "Recess", "hour": 11, "minute": 0},
-          {"name": "Period 3", "hour": 11, "minute": 25},
-          {"name": "Period 4", "hour": 12, "minute": 25},
-          {"name": "Lunch", "hour": 13, "minute": 25},
-          {"name": "Period 5", "hour": 14, "minute": 5},
-          {"name": "End", "hour": 15, "minute": 5}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 0
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
         ],
-        "Friday": [
-          {"name": "Period 1", "hour": 8, "minute": 50},
-          {"name": "Period 2", "hour": 9, "minute": 55},
-          {"name": "Recess", "hour": 11, "minute": 0},
-          {"name": "Period 3", "hour": 11, "minute": 25},
-          {"name": "Period 4", "hour": 12, "minute": 25},
-          {"name": "Lunch", "hour": 13, "minute": 25},
-          {"name": "Period 5", "hour": 14, "minute": 5},
-          {"name": "End", "hour": 15, "minute": 5}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 0
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
         ]
-      },
+      ],
       "notices": [],
       "userCreated": false
     },
     {
       "name": "Girraween High School",
-       "bellTimes": {
-        "Monday": [
-          {"name": "Assembly/Meeting", "hour": 8, "minute": 45},
-          {"name": "Period 1", "hour": 9, "minute": 0},
-          {"name": "Period 2", "hour": 10, "minute": 0},
-          {"name": "Recess", "hour": 11, "minute": 0},
-          {"name": "Period 3", "hour": 11, "minute": 20},
-          {"name": "Period 4", "hour": 12, "minute": 20},
-          {"name": "Lunch 1", "hour": 13, "minute": 25},
-          {"name": "Lunch 2", "hour": 13, "minute": 45},
-          {"name": "Period 5", "hour": 14, "minute": 5},
-          {"name": "End", "hour": 15, "minute": 10}
+      "bellTimes": [
+        [
+          {
+            "name": "Assembly/Meeting",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "hour": 9,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 0
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 20
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 20
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 10
+          }
         ],
-        "Tuesday": [
-          {"name": "Period 1", "hour": 8, "minute": 45},
-          {"name": "Period 2", "hour": 9, "minute": 50},
-          {"name": "Recess", "hour": 10, "minute": 55},
-          {"name": "Period 3", "hour": 11, "minute": 15},
-          {"name": "Period 4", "hour": 12, "minute": 20},
-          {"name": "Lunch 1", "hour": 13, "minute": 25},
-          {"name": "Lunch 2", "hour": 13, "minute": 45},
-          {"name": "Period 5", "hour": 14, "minute": 5},
-          {"name": "End", "hour": 15, "minute": 10}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 55
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 20
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 10
+          }
         ],
-        "Wednesday": [
-          {"name": "Period 1", "hour": 8, "minute": 45},
-          {"name": "Period 2", "hour": 9, "minute": 45},
-          {"name": "Recess", "hour": 10, "minute": 45},
-          {"name": "Period 3", "hour": 11, "minute": 5},
-          {"name": "Lunch 1", "hour": 12, "minute": 10},
-          {"name": "Lunch 2", "hour": 12, "minute": 35},
-          {"name": "Period 4", "hour": 13, "minute": 0},
-          {"name": "Period 5", "hour": 14, "minute": 5},
-          {"name": "End", "hour": 15, "minute": 10}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 45
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 5
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 10
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 12,
+            "minute": 35
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 0
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 10
+          }
         ],
-        "Thursday": [
-          {"name": "Period 1", "hour": 8, "minute": 45},
-          {"name": "Period 2", "hour": 9, "minute": 50},
-          {"name": "Recess", "hour": 10, "minute": 55},
-          {"name": "Period 3", "hour": 11, "minute": 15},
-          {"name": "Period 4", "hour": 12, "minute": 20},
-          {"name": "Lunch 1", "hour": 13, "minute": 25},
-          {"name": "Lunch 2", "hour": 13, "minute": 45},
-          {"name": "Period 5", "hour": 14, "minute": 5},
-          {"name": "End", "hour": 15, "minute": 10}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 55
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 20
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 10
+          }
         ],
-        "Friday": [
-          {"name": "Period 1", "hour": 8, "minute": 45},
-          {"name": "Period 2", "hour": 9, "minute": 50},
-          {"name": "Recess", "hour": 10, "minute": 55},
-          {"name": "Period 3", "hour": 11, "minute": 15},
-          {"name": "Period 4", "hour": 12, "minute": 20},
-          {"name": "Lunch 1", "hour": 13, "minute": 25},
-          {"name": "Lunch 2", "hour": 13, "minute": 45},
-          {"name": "Period 5", "hour": 14, "minute": 5},
-          {"name": "End", "hour": 15, "minute": 10}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 55
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 20
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 10
+          }
         ]
-      },
+      ],
       "notices": [],
       "userCreated": false
     },
     {
       "name": "Hornsby Girls High School",
-      "bellTimes": {
-        "Monday": [
-          {"name": "Period 1", "hour": 8, "minute": 45},
-          {"name": "Recess", "hour": 10, "minute": 0},
-          {"name": "Period 2", "hour": 10, "minute": 20},
-          {"name": "Break", "hour": 11, "minute": 35},
-          {"name": "Period 3", "hour": 11, "minute": 40},
-          {"name": "Lunch 1", "hour": 12, "minute": 55},
-          {"name": "Lunch 2", "hour": 13, "minute": 15},
-          {"name": "Period 4", "hour": 13, "minute": 35},
-          {"name": "End", "hour": 14, "minute": 50}
+      "bellTimes": [
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 20
+          },
+          {
+            "name": "Break",
+            "hour": 11,
+            "minute": 35
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 40
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 55
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 35
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 50
+          }
         ],
-        "Tuesday": [
-          {"name": "Period 1", "hour": 8, "minute": 45},
-          {"name": "Recess", "hour": 10, "minute": 0},
-          {"name": "Period 2", "hour": 10, "minute": 20},
-          {"name": "Break", "hour": 11, "minute": 35},
-          {"name": "Period 3", "hour": 11, "minute": 40},
-          {"name": "Lunch 1", "hour": 12, "minute": 55},
-          {"name": "Lunch 2", "hour": 13, "minute": 15},
-          {"name": "Period 4", "hour": 13, "minute": 35},
-          {"name": "End", "hour": 14, "minute": 50}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 20
+          },
+          {
+            "name": "Break",
+            "hour": 11,
+            "minute": 35
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 40
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 55
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 35
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 50
+          }
         ],
-        "Wednesday": [
-          {"name": "Period 1", "hour": 8, "minute": 45},
-          {"name": "Recess", "hour": 9, "minute": 50},
-          {"name": "Period 2", "hour": 10, "minute": 10},
-          {"name": "Break", "hour": 11, "minute": 15},
-          {"name": "Period 3", "hour": 11, "minute": 20},
-          {"name": "Assembly", "hour": 12, "minute": 25},
-          {"name": "Lunch 1", "hour": 12, "minute": 55},
-          {"name": "Lunch 2", "hour": 13, "minute": 15},
-          {"name": "Period 4", "hour": 13, "minute": 35},
-          {"name": "End", "hour": 14, "minute": 40}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Break",
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 20
+          },
+          {
+            "name": "Assembly",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 55
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 35
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 40
+          }
         ],
-        "Thursday": [
-          {"name": "Period 1", "hour": 8, "minute": 45},
-          {"name": "Recess", "hour": 10, "minute": 0},
-          {"name": "Period 2", "hour": 10, "minute": 20},
-          {"name": "Break", "hour": 11, "minute": 35},
-          {"name": "Period 3", "hour": 11, "minute": 40},
-          {"name": "Lunch 1", "hour": 12, "minute": 55},
-          {"name": "Lunch 2", "hour": 13, "minute": 15},
-          {"name": "Period 4", "hour": 13, "minute": 35},
-          {"name": "End", "hour": 14, "minute": 50}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 20
+          },
+          {
+            "name": "Break",
+            "hour": 11,
+            "minute": 35
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 40
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 55
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 35
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 50
+          }
         ],
-        "Friday": [
-          {"name": "Period 1", "hour": 8, "minute": 45},
-          {"name": "Recess", "hour": 10, "minute": 0},
-          {"name": "Period 2", "hour": 10, "minute": 20},
-          {"name": "Break", "hour": 11, "minute": 35},
-          {"name": "Period 3", "hour": 11, "minute": 40},
-          {"name": "Lunch 1", "hour": 12, "minute": 55},
-          {"name": "Lunch 2", "hour": 13, "minute": 15},
-          {"name": "Period 4", "hour": 13, "minute": 35},
-          {"name": "End", "hour": 14, "minute": 50}
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 20
+          },
+          {
+            "name": "Break",
+            "hour": 11,
+            "minute": 35
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 40
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 55
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 35
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 50
+          }
         ]
-      },
+      ],
       "notices": [],
       "userCreated": false
     },
     {
       "name": "Chatswood High School",
-      "bellTimes": {
-        "Monday": [
-          {"name": "Period 0", "hour": 7, "minute": 50, "enabled": false},
-          {"name": "Period 1", "hour": 8, "minute": 50},
-          {"name": "Period 2", "hour": 9, "minute": 55},
-          {"name": "Assembly", "hour": 10, "minute": 50},
-          {"name": "Recess", "hour": 11, "minute": 10},
-          {"name": "Period 3", "hour": 11, "minute": 30},
-          {"name": "Period 4", "hour": 12, "minute": 30},
-          {"name": "Lunch 1", "hour": 13, "minute": 30},
-          {"name": "Lunch 2", "hour": 13, "minute": 50},
-          {"name": "Period 5", "hour": 14, "minute": 10},
-          {"name": "End/Period 6", "hour": 15, "minute": 10},
-          {"name": "P6 End", "hour": 16, "minute": 10, "enabled": false}
+      "bellTimes": [
+        [
+          {
+            "name": "Period 0",
+            "hour": 7,
+            "minute": 50,
+            "enabled": false
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 55
+          },
+          {
+            "name": "Assembly",
+            "hour": 10,
+            "minute": 50
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 10
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 30
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 30
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 30
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 50
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 10
+          },
+          {
+            "name": "End/Period 6",
+            "hour": 15,
+            "minute": 10
+          },
+          {
+            "name": "P6 End",
+            "hour": 16,
+            "minute": 10,
+            "enabled": false
+          }
         ],
-        "Tuesday": [
-          {"name": "Period 0", "hour": 7, "minute": 50, "enabled": false},
-          {"name": "Period 1", "hour": 8, "minute": 50},
-          {"name": "Period 2", "hour": 10, "minute": 0},
-          {"name": "Recess", "hour": 11, "minute": 5},
-          {"name": "Period 3", "hour": 11, "minute": 25},
-          {"name": "Period 4", "hour": 12, "minute": 25},
-          {"name": "Lunch 1", "hour": 13, "minute": 30},
-          {"name": "Lunch 2", "hour": 13, "minute": 50},
-          {"name": "Period 5", "hour": 14, "minute": 10},
-          {"name": "End/Period 6", "hour": 15, "minute": 10},
-          {"name": "P6 End", "hour": 16, "minute": 10, "enabled": false}
+        [
+          {
+            "name": "Period 0",
+            "hour": 7,
+            "minute": 50,
+            "enabled": false
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 5
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 30
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 50
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 10
+          },
+          {
+            "name": "End/Period 6",
+            "hour": 15,
+            "minute": 10
+          },
+          {
+            "name": "P6 End",
+            "hour": 16,
+            "minute": 10,
+            "enabled": false
+          }
         ],
-        "Wednesday": [
-          {"name": "Period 0", "hour": 7, "minute": 50, "enabled": false},
-          {"name": "Period 1", "hour": 8, "minute": 50},
-          {"name": "Period 2", "hour": 10, "minute": 0},
-          {"name": "Recess", "hour": 11, "minute": 5},
-          {"name": "Period 3", "hour": 11, "minute": 25},
-          {"name": "Period 4", "hour": 12, "minute": 25},
-          {"name": "Lunch 1", "hour": 13, "minute": 30},
-          {"name": "Lunch 2", "hour": 13, "minute": 50},
-          {"name": "Period 5", "hour": 14, "minute": 10},
-          {"name": "End/Period 6", "hour": 15, "minute": 10},
-          {"name": "P6 End", "hour": 16, "minute": 10, "enabled": false}
+        [
+          {
+            "name": "Period 0",
+            "hour": 7,
+            "minute": 50,
+            "enabled": false
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 5
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 30
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 50
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 10
+          },
+          {
+            "name": "End/Period 6",
+            "hour": 15,
+            "minute": 10
+          },
+          {
+            "name": "P6 End",
+            "hour": 16,
+            "minute": 10,
+            "enabled": false
+          }
         ],
-        "Thursday": [
-          {"name": "Period 0", "hour": 7, "minute": 50, "enabled": false},
-          {"name": "Period 1", "hour": 8, "minute": 50},
-          {"name": "Period 2", "hour": 9, "minute": 50},
-          {"name": "Recess", "hour": 10, "minute": 35},
-          {"name": "Period 3", "hour": 11, "minute": 0},
-          {"name": "Lunch 1", "hour": 11, "minute": 50},
-          {"name": "Lunch 2", "hour": 12, "minute": 10},
-          {"name": "Period 4/Sport", "hour": 12, "minute": 30},
-          {"name": "Period 5/Sport", "hour": 13, "minute": 30},
-          {"name": "End", "hour": 14, "minute": 30}
+        [
+          {
+            "name": "Period 0",
+            "hour": 7,
+            "minute": 50,
+            "enabled": false
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 35
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 0
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 11,
+            "minute": 50
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 12,
+            "minute": 10
+          },
+          {
+            "name": "Period 4/Sport",
+            "hour": 12,
+            "minute": 30
+          },
+          {
+            "name": "Period 5/Sport",
+            "hour": 13,
+            "minute": 30
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 30
+          }
         ],
-        "Friday": [
-          {"name": "Period 0", "hour": 7, "minute": 50, "enabled": false},
-          {"name": "Period 1", "hour": 8, "minute": 50},
-          {"name": "Period 2", "hour": 10, "minute": 0},
-          {"name": "Recess", "hour": 11, "minute": 5},
-          {"name": "Period 3", "hour": 11, "minute": 25},
-          {"name": "Period 4", "hour": 12, "minute": 25},
-          {"name": "Lunch 1", "hour": 13, "minute": 30},
-          {"name": "Lunch 2", "hour": 13, "minute": 50},
-          {"name": "Period 5", "hour": 14, "minute": 10},
-          {"name": "End/Period 6", "hour": 15, "minute": 10},
-          {"name": "P6 End", "hour": 16, "minute": 10, "enabled": false}
+        [
+          {
+            "name": "Period 0",
+            "hour": 7,
+            "minute": 50,
+            "enabled": false
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 5
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 30
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 50
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 10
+          },
+          {
+            "name": "End/Period 6",
+            "hour": 15,
+            "minute": 10
+          },
+          {
+            "name": "P6 End",
+            "hour": 16,
+            "minute": 10,
+            "enabled": false
+          }
         ]
-      },
+      ],
       "links": [
-        {"title": "Sentral", "destination": "https://chatswood-h.sentral.com.au/portal2/", "icon": "link"},
-        {"title": "DoE Portal", "destination": "https://portal.det.nsw.edu.au/", "icon": "link"},
-        {"title": "BYOD Program Information", "destination": "https://chatswood-h.schools.nsw.gov.au/about-our-school/byod-program.html", "icon": "link"}
+        {
+          "title": "Sentral",
+          "destination": "https://chatswood-h.sentral.com.au/portal2/",
+          "icon": "link"
+        },
+        {
+          "title": "DoE Portal",
+          "destination": "https://portal.det.nsw.edu.au/",
+          "icon": "link"
+        },
+        {
+          "title": "BYOD Program Information",
+          "destination": "https://chatswood-h.schools.nsw.gov.au/about-our-school/byod-program.html",
+          "icon": "link"
+        }
       ],
       "notices": [],
       "userCreated": false
