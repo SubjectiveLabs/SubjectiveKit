@@ -12,7 +12,7 @@ _Currently the schools JSON includes:_
 - Links
 
 ## Usage
-The Openschools JSON is available in the repository at `/schools.json`  or hosted online at [https://subjectivelabs.github.io/Openschools/schools.json](https://subjectivelabs.github.io/Openschools/schools.json)
+The Openschools JSON is available in the repository at `/schools.json`  or hosted online at https://cdn.subjective.school/schools.json
 
 ## Contribute
 Openschools is the library of school data used for Subjective Discovery _(schools made publicly available on Subjective)_.
