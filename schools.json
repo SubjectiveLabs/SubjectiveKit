@@ -1366,5 +1366,214 @@
       ],
       "notices": [],
       "userCreated": false
+    },
+    {
+      "name": "Normanhurst Public School",
+      "bellTimes": [
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 11,
+            "minute": 20
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 50
+          },
+          {
+            "name": "Period 3",
+            "hour": 13,
+            "minute": 40
+          },
+          {
+            "name": "K-2 End",
+            "hour": 14,
+            "minute": 50
+          },
+          {
+            "name": "3-6 End",
+            "hour": 14,
+            "minute": 55
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 11,
+            "minute": 20
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 50
+          },
+          {
+            "name": "Period 3",
+            "hour": 13,
+            "minute": 40
+          },
+          {
+            "name": "K-2 End",
+            "hour": 14,
+            "minute": 50
+          },
+          {
+            "name": "3-6 End",
+            "hour": 14,
+            "minute": 55
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 11,
+            "minute": 20
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 50
+          },
+          {
+            "name": "Period 3",
+            "hour": 13,
+            "minute": 40
+          },
+          {
+            "name": "K-2 End",
+            "hour": 14,
+            "minute": 50
+          },
+          {
+            "name": "3-6 End",
+            "hour": 14,
+            "minute": 55
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 11,
+            "minute": 20
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 50
+          },
+          {
+            "name": "Period 3",
+            "hour": 13,
+            "minute": 40
+          },
+          {
+            "name": "K-2 End",
+            "hour": 14,
+            "minute": 50
+          },
+          {
+            "name": "3-6 End",
+            "hour": 14,
+            "minute": 55
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 11,
+            "minute": 20
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 50
+          },
+          {
+            "name": "Period 3",
+            "hour": 13,
+            "minute": 40
+          },
+          {
+            "name": "K-2 End",
+            "hour": 14,
+            "minute": 50
+          },
+          {
+            "name": "3-6 End",
+            "hour": 14,
+            "minute": 55
+          }
+        ]
+      ],
+      "links": [
+        {
+          "title": "DET Portal",
+          "destination": "https://portal.education.nsw.gov.au/",
+          "icon": "link"
+        },
+        {
+          "title": "Mathletics",
+          "destination": "https://login.mathletics.com/",
+          "icon": "link"
+        },
+        {
+          "title": "Wushka",
+          "destination": "https://wushka.com.au/",
+          "icon": "link"
+        }
+      ],
+      "notices": [],
+      "userCreated": false
     }
   ]
