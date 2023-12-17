@@ -1829,6 +1829,284 @@
       ],
       "notices": [],
       "userCreated": false
+    },
+    {
+      "name": "Glenwood High School",
+      "bellTimes": [
+        [
+          {
+            "name": "Connect",
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Session 1",
+            "hour": 9,
+            "minute": 0
+          },
+          {
+            "name": "Session 2",
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 40
+          },
+          {
+            "name": "Session 3",
+            "hour": 11,
+            "minute": 10
+          },
+          {
+            "name": "Session 4",
+            "hour": 12,
+            "minute": 0
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 50
+          },
+          {
+            "name": "Session 5",
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 10
+          }
+        ],
+        [
+          {
+            "name": "Connect",
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Session 1",
+            "hour": 9,
+            "minute": 0
+          },
+          {
+            "name": "Session 2",
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 40
+          },
+          {
+            "name": "Session 3",
+            "hour": 11,
+            "minute": 10
+          },
+          {
+            "name": "Session 4",
+            "hour": 12,
+            "minute": 0
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 50
+          },
+          {
+            "name": "Session 5",
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Session 6",
+            "hour": 14,
+            "minute": 10
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Session 1",
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Session 2",
+            "hour": 9,
+            "minute": 30
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 20
+          },
+          {
+            "name": "Session 3",
+            "hour": 10,
+            "minute": 50
+          },
+          {
+            "name": "Session 4",
+            "hour": 11,
+            "minute": 40
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 30
+          },
+          {
+            "name": "Session 5",
+            "hour": 13,
+            "minute": 0
+          },
+          {
+            "name": "Session 6",
+            "hour": 13,
+            "minute": 55
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 50
+          }
+        ],
+        [
+          {
+            "name": "Connect",
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Session 1",
+            "hour": 9,
+            "minute": 0
+          },
+          {
+            "name": "Session 2",
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 40
+          },
+          {
+            "name": "Session 3",
+            "hour": 11,
+            "minute": 10
+          },
+          {
+            "name": "Session 4",
+            "hour": 12,
+            "minute": 0
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 50
+          },
+          {
+            "name": "Session 5",
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Session 6",
+            "hour": 14,
+            "minute": 10
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Connect",
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Session 1",
+            "hour": 9,
+            "minute": 0
+          },
+          {
+            "name": "Session 2",
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 40
+          },
+          {
+            "name": "Session 3",
+            "hour": 11,
+            "minute": 10
+          },
+          {
+            "name": "Session 4",
+            "hour": 12,
+            "minute": 0
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 50
+          },
+          {
+            "name": "Session 5",
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Session 6",
+            "hour": 14,
+            "minute": 10
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 0
+          }
+        ]
+      ],
+      "links": [
+        {
+          "title": "Sentral",
+          "destination": "https://glenwood-h.sentral.com.au/portal2/#!/login",
+          "icon": "link"
+        },
+        {
+          "title": "Events",
+          "destination": "https://glenwood-h.schools.nsw.gov.au/events.html",
+          "icon": "link"
+        },
+        {
+          "title": "Newsletter",
+          "destination": "https://glenwood-h.schools.nsw.gov.au/newsletter.html",
+          "icon": "link"
+        },
+        {
+          "title": "Oliver Library",
+          "destination": "https://oliver43.library.det.nsw.edu.au/oliver/libraryHome.do",
+          "icon": "link"
+        }
+      ],
+      "notices": [],
+      "userCreated": false
     }
-    
   ]
