@@ -2350,19 +2350,16 @@
       ],
       "links": [
         {
-          "id": "dae14a1b-0e8b-46a1-a5ca-02ceeab5d68a",
           "title": "Sentral",
           "destination": "https://parramatta-h.sentral.com.au/portal2/#!/login",
           "icon": "link"
         },
         {
-          "id": "4d7d6683-a5a7-4145-aaba-b891be337f02",
           "title": "Newsletter",
           "destination": "https://parramatta-h.schools.nsw.gov.au/newsletter.html",
           "icon": "link"
         },
         {
-          "id": "cb02fef7-1d19-4396-9007-171cfd942a19",
           "title": "Student Portal",
           "destination": "https://portal.education.nsw.gov.au/",
           "icon": "link"
