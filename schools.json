@@ -2108,5 +2108,267 @@
       ],
       "notices": [],
       "userCreated": false
-    }
+    },
+    {
+      "name": "Parramatta High School",
+      "bellTimes": [
+        [
+          {
+            "name": "RC/DEAR",
+            "hour": 8,
+            "minute": 25
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 45
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 15
+          },
+          {
+            "name": "Lunch",
+            "hour": 13,
+            "minute": 15
+          },
+          {
+            "name": "Period 5",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 45
+          }
+        ],
+        [
+          {
+            "name": "RC/DEAR",
+            "hour": 8,
+            "minute": 25
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 45
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 45
+          },
+          {
+            "name": "Period 5",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 45
+          }
+        ],
+        [
+          {
+            "name": "RC/DEAR",
+            "hour": 8,
+            "minute": 25
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 40
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 35
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 5
+          },
+          {
+            "name": "Assembly",
+            "hour": 12,
+            "minute": 0
+          },
+          {
+            "name": "Lunch",
+            "hour": 12,
+            "minute": 50
+          },
+          {
+            "name": "Period 5",
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 15
+          }
+        ],
+        [
+          {
+            "name": "RC/DEAR",
+            "hour": 8,
+            "minute": 25
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 45
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 15
+          },
+          {
+            "name": "Lunch",
+            "hour": 13,
+            "minute": 15
+          },
+          {
+            "name": "Period 5",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 45
+          }
+        ],
+        [
+          {
+            "name": "RC/DEAR",
+            "hour": 8,
+            "minute": 25
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 45
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 15
+          },
+          {
+            "name": "Lunch",
+            "hour": 13,
+            "minute": 15
+          },
+          {
+            "name": "Period 5",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 45
+          }
+        ]
+      ],
+      "links": [
+        {
+          "id": "dae14a1b-0e8b-46a1-a5ca-02ceeab5d68a",
+          "title": "Sentral",
+          "destination": "https://parramatta-h.sentral.com.au/portal2/#!/login",
+          "icon": "link"
+        },
+        {
+          "id": "4d7d6683-a5a7-4145-aaba-b891be337f02",
+          "title": "Newsletter",
+          "destination": "https://parramatta-h.schools.nsw.gov.au/newsletter.html",
+          "icon": "link"
+        },
+        {
+          "id": "cb02fef7-1d19-4396-9007-171cfd942a19",
+          "title": "Student Portal",
+          "destination": "https://portal.education.nsw.gov.au/",
+          "icon": "link"
+        }
+      ],
+      "notices": [],
+      "userCreated": false
+    }    
   ]
