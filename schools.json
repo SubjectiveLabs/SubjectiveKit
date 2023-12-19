@@ -323,6 +323,16 @@
           "title": "Moodle",
           "destination": "https://web1.baulkham-h.schools.nsw.edu.au/",
           "icon": "folder.fill"
+        },
+        {
+          "title": "Newsletter",
+          "destination": "https://baulkham-h.schools.nsw.gov.au/newsletter.html",
+          "icon": "newspaper.fill"
+        },
+        {
+          "title": "Printing",
+          "destination": "http://10.209.96.176:9191/user",
+          "icon": "printer.fill"
         }
       ],
       "notices": [],
@@ -551,6 +561,23 @@
             "minute": 5
           }
         ]
+      ],
+      "links": [
+        {
+          "title": "Sentral",
+          "destination": "https://jamesruseahs.sentral.com.au/auth/portal",
+          "icon": "person.crop.square.filled.and.at.rectangle.fill"
+        },
+        {
+          "title": "Communication",
+          "destination": "https://schoolsnsw.sharepoint.com/sites/JRComm",
+          "icon": "bubble.left.and.text.bubble.right.fill"
+        },
+        {
+          "title": "Newsletter",
+          "destination": "https://jamesruse-h.schools.nsw.gov.au/newsletter.html",
+          "icon": "newspaper.fill"
+        }
       ],
       "notices": [],
       "userCreated": false
@@ -799,6 +826,23 @@
           }
         ]
       ],
+      "links": [
+        {
+          "title": "Sentral",
+          "destination": "https://girraween-h.sentral.com.au/auth/portal#!/login",
+          "icon": "person.crop.square.filled.and.at.rectangle.fill"
+        },
+        {
+          "title": "Calendar",
+          "destination": "https://calendar.google.com/calendar/u/0/embed?src=jekdu3o5rdo1s47qvig65bbj3qgel1t5@import.calendar.google.com&ctz=Australia/Sydney",
+          "icon": "calendar"
+        },
+        {
+          "title": "Newsletter",
+          "destination": "https://jamesruse-h.schools.nsw.gov.au/newsletter.html",
+          "icon": "newspaper.fill"
+        }
+      ],
       "notices": [],
       "userCreated": false
     },
@@ -1045,6 +1089,23 @@
             "minute": 50
           }
         ]
+      ],
+      "links": [
+        {
+          "title": "Sentral",
+          "destination": "https://hghs.sentral.com.au/portal2/#!/login",
+          "icon": "person.crop.square.filled.and.at.rectangle.fill"
+        },
+        {
+          "title": "Events",
+          "destination": "https://hornsbygir-h.schools.nsw.gov.au/events.html",
+          "icon": "calendar"
+        },
+        {
+          "title": "Newsletter",
+          "destination": "https://hornsbygir-h.schools.nsw.gov.au/newsletter.html",
+          "icon": "newspaper.fill"
+        }
       ],
       "notices": [],
       "userCreated": false
@@ -3047,8 +3108,8 @@
         },
         {
           "title": "Calendar",
-          "destination": "https://northsydbo-h.schools.nsw.gov.au/calendar.html",
-          "icon": "link"
+          "destination": "https://calendar.google.com/calendar/u/0/embed?src=0b92ujvrq5m31d1upf4eb8eqkmpoh45j@import.calendar.google.com&ctz=Australia/Sydney",
+          "icon": "calendar"
         }
       ],
       "notices": [],
