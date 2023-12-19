@@ -2726,5 +2726,324 @@
       ],
       "notices": [],
       "userCreated": false
-    }  
+    },
+    {
+      "name": "Model Farms High School",
+      "bellTimes": [
+        [
+          {
+            "name": "Roll Call",
+            "hour": 8,
+            "minute": 30
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 42
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 35
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 28
+          },
+          {
+            "name": "Period 3",
+            "hour": 10,
+            "minute": 48
+          },
+          {
+            "name": "Period 4",
+            "hour": 11,
+            "minute": 41
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 34
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 12,
+            "minute": 54
+          },
+          {
+            "name": "Period 5",
+            "hour": 13,
+            "minute": 14
+          },
+          {
+            "name": "Period 6",
+            "hour": 14,
+            "minute": 7
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "hour": 8,
+            "minute": 30
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 39
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 28
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 17
+          },
+          {
+            "name": "Period 3",
+            "hour": 10,
+            "minute": 37
+          },
+          {
+            "name": "Period 4",
+            "hour": 11,
+            "minute": 26
+          },
+          {
+            "name": "Assembly",
+            "hour": 12,
+            "minute": 15
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 45
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Period 5",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 15
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "hour": 8,
+            "minute": 30
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 39
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 28
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 17
+          },
+          {
+            "name": "Period 3",
+            "hour": 10,
+            "minute": 37
+          },
+          {
+            "name": "Period 4",
+            "hour": 11,
+            "minute": 26
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 15
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 12,
+            "minute": 40
+          },
+          {
+            "name": "Period 5",
+            "hour": 12,
+            "minute": 46
+          },
+          {
+            "name": "Period 6",
+            "hour": 13,
+            "minute": 43
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 40
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "hour": 8,
+            "minute": 30
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 42
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 35
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 28
+          },
+          {
+            "name": "Period 3",
+            "hour": 10,
+            "minute": 48
+          },
+          {
+            "name": "Period 4",
+            "hour": 11,
+            "minute": 41
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 34
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 12,
+            "minute": 54
+          },
+          {
+            "name": "Period 5",
+            "hour": 13,
+            "minute": 14
+          },
+          {
+            "name": "Period 6",
+            "hour": 14,
+            "minute": 7
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "hour": 8,
+            "minute": 30
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 42
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 35
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 28
+          },
+          {
+            "name": "Period 3",
+            "hour": 10,
+            "minute": 48
+          },
+          {
+            "name": "Period 4",
+            "hour": 11,
+            "minute": 41
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 34
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 12,
+            "minute": 54
+          },
+          {
+            "name": "Period 5",
+            "hour": 13,
+            "minute": 14
+          },
+          {
+            "name": "Period 6",
+            "hour": 14,
+            "minute": 7
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 0
+          }
+        ]
+      ],
+      "links": [
+        {
+          "title": "Sentral",
+          "destination": "https://modelfarms-h.sentral.com.au/portal2/#!/login",
+          "icon": "link"
+        },
+        {
+          "title": "Newsletter",
+          "destination": "https://modelfarms-h.schools.nsw.gov.au/newsletter.html",
+          "icon": "link"
+        },
+        {
+          "title": "Events",
+          "destination": "https://modelfarms-h.schools.nsw.gov.au/events.html",
+          "icon": "link"
+        },
+        {
+          "title": "Printing",
+          "destination": "http://84994r1001ps001:9191/user",
+          "icon": "link"
+        },
+        {
+          "title": "Student Portal",
+          "destination": "https://portal.education.nsw.gov.au",
+          "icon": "link"
+        }
+      ],
+      "notices": [],
+      "userCreated": false
+    }    
   ]
