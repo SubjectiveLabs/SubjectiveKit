@@ -2962,7 +2962,7 @@
             "name": "Period 0",
             "hour": 8,
             "minute": 0,
-            "enabled": true
+            "enabled": false
           },
           {
             "name": "Roll Call",
