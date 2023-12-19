@@ -3098,6 +3098,86 @@
             "minute": 35,
             "enabled": false
           }
+        ],
+        [
+          {
+            "name": "Period 0",
+            "hour": 8,
+            "minute": 0,
+            "enabled": false
+          },
+          {
+            "name": "Roll Call",
+            "hour": 8,
+            "minute": 50,
+            "enabled": true
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 58,
+            "enabled": true
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 51,
+            "enabled": true
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 44,
+            "enabled": true
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 4,
+            "enabled": true
+          },
+          {
+            "name": "Period 4",
+            "hour": 11,
+            "minute": 57,
+            "enabled": true
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 12,
+            "minute": 50,
+            "enabled": true
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 10,
+            "enabled": true
+          },
+          {
+            "name": "Period 5",
+            "hour": 13,
+            "minute": 29,
+            "enabled": true
+          },
+          {
+            "name": "Period 6",
+            "hour": 14,
+            "minute": 22,
+            "enabled": false
+          },
+          {
+            "name": "End/AS",
+            "hour": 15,
+            "minute": 15,
+            "enabled": true
+          },
+          {
+            "name": "AS End",
+            "hour": 15,
+            "minute": 35,
+            "enabled": false
+          }
         ]
       ],
       "links": [
