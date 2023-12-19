@@ -2367,5 +2367,364 @@
       ],
       "notices": [],
       "userCreated": false
-    }    
+    },
+    {
+      "name": "Sefton High School",
+      "bellTimes": [
+        [
+          {
+            "name": "Period 0",
+            "hour": 7,
+            "minute": 45,
+            "enabled": false
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45,
+            "enabled": true
+          },
+          {
+            "name": "Break 1",
+            "hour": 10,
+            "minute": 10,
+            "enabled": true
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 25,
+            "enabled": true
+          },
+          {
+            "name": "Break 2a",
+            "hour": 11,
+            "minute": 45,
+            "enabled": true
+          },
+          {
+            "name": "Break 2b",
+            "hour": 12,
+            "minute": 0,
+            "enabled": true
+          },
+          {
+            "name": "Period 3",
+            "hour": 12,
+            "minute": 15,
+            "enabled": true
+          },
+          {
+            "name": "Break 3",
+            "hour": 12,
+            "minute": 55,
+            "enabled": true
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 10,
+            "enabled": true
+          },
+          {
+            "name": "End/Period 5",
+            "hour": 14,
+            "minute": 30,
+            "enabled": true
+          },
+          {
+            "name": "P5 End",
+            "hour": 15,
+            "minute": 10,
+            "enabled": false
+          }
+        ],
+        [
+          {
+            "name": "Period 0",
+            "hour": 7,
+            "minute": 45,
+            "enabled": false
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45,
+            "enabled": true
+          },
+          {
+            "name": "Break 1",
+            "hour": 10,
+            "minute": 10,
+            "enabled": true
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 25,
+            "enabled": true
+          },
+          {
+            "name": "Break 2a",
+            "hour": 11,
+            "minute": 45,
+            "enabled": true
+          },
+          {
+            "name": "Break 2b",
+            "hour": 12,
+            "minute": 0,
+            "enabled": true
+          },
+          {
+            "name": "Period 3",
+            "hour": 12,
+            "minute": 15,
+            "enabled": true
+          },
+          {
+            "name": "Break 3",
+            "hour": 12,
+            "minute": 55,
+            "enabled": true
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 10,
+            "enabled": true
+          },
+          {
+            "name": "End/Period 5",
+            "hour": 14,
+            "minute": 30,
+            "enabled": true
+          },
+          {
+            "name": "P5 End",
+            "hour": 15,
+            "minute": 10,
+            "enabled": false
+          }
+        ],
+        [
+          {
+            "name": "Period 0",
+            "hour": 7,
+            "minute": 45,
+            "enabled": false
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45,
+            "enabled": true
+          },
+          {
+            "name": "Break 1",
+            "hour": 10,
+            "minute": 10,
+            "enabled": true
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 25,
+            "enabled": true
+          },
+          {
+            "name": "Break 2a",
+            "hour": 11,
+            "minute": 45,
+            "enabled": true
+          },
+          {
+            "name": "Break 2b",
+            "hour": 12,
+            "minute": 0,
+            "enabled": true
+          },
+          {
+            "name": "Period 3",
+            "hour": 12,
+            "minute": 15,
+            "enabled": true
+          },
+          {
+            "name": "Break 3",
+            "hour": 13,
+            "minute": 35,
+            "enabled": true
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 50,
+            "enabled": true
+          },
+          {
+            "name": "End/Period 5",
+            "hour": 15,
+            "minute": 10,
+            "enabled": true
+          },
+          {
+            "name": "P5 End",
+            "hour": 16,
+            "minute": 0,
+            "enabled": false
+          }
+        ],
+        [
+          {
+            "name": "Period 0",
+            "hour": 7,
+            "minute": 45,
+            "enabled": false
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45,
+            "enabled": true
+          },
+          {
+            "name": "Break 1",
+            "hour": 10,
+            "minute": 10,
+            "enabled": true
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 25,
+            "enabled": true
+          },
+          {
+            "name": "Break 2a",
+            "hour": 11,
+            "minute": 45,
+            "enabled": true
+          },
+          {
+            "name": "Break 2b",
+            "hour": 12,
+            "minute": 0,
+            "enabled": true
+          },
+          {
+            "name": "Period 3",
+            "hour": 12,
+            "minute": 15,
+            "enabled": true
+          },
+          {
+            "name": "Break 3",
+            "hour": 13,
+            "minute": 35,
+            "enabled": true
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 50,
+            "enabled": true
+          },
+          {
+            "name": "End/Period 5",
+            "hour": 15,
+            "minute": 10,
+            "enabled": true
+          },
+          {
+            "name": "P5 End",
+            "hour": 16,
+            "minute": 0,
+            "enabled": false
+          }
+        ],
+        [
+          {
+            "name": "Period 0",
+            "hour": 7,
+            "minute": 45,
+            "enabled": false
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45,
+            "enabled": true
+          },
+          {
+            "name": "Break 1",
+            "hour": 10,
+            "minute": 10,
+            "enabled": true
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 25,
+            "enabled": true
+          },
+          {
+            "name": "Break 2a",
+            "hour": 11,
+            "minute": 45,
+            "enabled": true
+          },
+          {
+            "name": "Break 2b",
+            "hour": 12,
+            "minute": 0,
+            "enabled": true
+          },
+          {
+            "name": "Period 3",
+            "hour": 12,
+            "minute": 15,
+            "enabled": true
+          },
+          {
+            "name": "Break 3",
+            "hour": 13,
+            "minute": 35,
+            "enabled": true
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 50,
+            "enabled": true
+          },
+          {
+            "name": "End/Period 5",
+            "hour": 15,
+            "minute": 10,
+            "enabled": true
+          },
+          {
+            "name": "P5 End",
+            "hour": 16,
+            "minute": 0,
+            "enabled": false
+          }
+        ]
+      ],
+      "links": [
+        {
+          "title": "Newsletter",
+          "destination": "https://sefton-h.schools.nsw.gov.au/newsletter.html",
+          "icon": "link"
+        },
+        {
+          "title": "Student Portal",
+          "destination": "https://portal.education.nsw.gov.au/",
+          "icon": "link"
+        }
+      ],
+      "notices": [],
+      "userCreated": false
+    }  
   ]
