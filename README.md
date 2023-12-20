@@ -1,38 +1,45 @@
-# Openschools
-Subjective's commitment to **empowering** a deeper **school-student relationship** within education and organisation software, extends to **on and off** the Subjective platform.
+# SubjectiveKit
+Subjective's commitment to **empowering** a deeper **school-student relationship** within education and organisation software, extends to on and off the Subjective platform.
 
-We're helping **developers** create **better school-tailored** student software with our open source Openschools project.
+We're helping developers create **amazing school-tailored** student software with open-source data and tools we call **SubjectiveKit**.
 
-Openschools makes our growing library of public school data and information on Subjective available for use in a JSON format.
+SubjectiveKit includes a growing database of school data and school-themed seasonally updating messages, with more to come.
 
-_Currently the schools JSON includes:_
-- School Name
-- Week Bell Times (Monday - Friday)
-- School Notices
-- Links
+## Contents & Usage
 
-## Usage
-The Openschools JSON is available in the repository at `/schools.json`  or hosted online at https://cdn.subjective.school/schools.json
+### Schools
+A growing database of school data, with compatibility for the Subjective student data format and [Subjective Assembly](https://github.com/SubjectiveLabs/SubjectiveAssembly) live school data hosting/distribution sotware.
 
+**File** `schools.json`
+
+**CDN** https://cdn.subjective.school/schools.json 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/yv6a.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
+### Seasonal
+School-themed seasonally updating messages targeted towards students in NSW.
+
+**File** `static/seasonal.txt`
+
+**CDN** https://cdn.subjective.school/seasonal.txt 
 [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/yv6a.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 
 ## Contribute
-Openschools is the library of school data used for Subjective Discovery _(schools made publicly available on Subjective)_.
+SubjectiveKit is actively across all Subjective platforms.
 
-Help the Subjective and Openschools project by adding your school.
+Help the Subjective and SubjectiveKit project by adding your school.
 
 1. Fork and clone the repository.
 2. Add your school to the `schools.json` file ensuring **all** required fields are included.
 
 ### Create
 
-Adding your school to Openschools is easy with Subjective Assembly, our open-source live school data self-hosted API for Subjective.
+Adding your school to SubjectiveKit Schools is easy with [Subjective Assembly](https://github.com/SubjectiveLabs/SubjectiveAssembly), our open-source live school data self-hosted API for Subjective.
 Zero code, all done in a simple user interface.
 
 Once school configuartion is completed in the Assembly interface, the created JSON in`/backend/static/school` can be added to the `schools.json` file.
  
 
-3. Submit a detailed pull request with school name, and to ensure **only public data** is made available on Openschools, attach either a **link** to where the data was retrieved from or **written permission** from school executive staff.
+3. Submit a detailed pull request with school name.
 
 ## Licencing
 
