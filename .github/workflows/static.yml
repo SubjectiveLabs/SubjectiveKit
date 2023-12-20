@@ -30,12 +30,13 @@ jobs:
         run: sudo apt-get install jq
       - name: Minify file
         run: mkdir public && cat schools.json | jq -c > ./public/schools.json
+      - name: Move static files
+        run: mv ./static/* ./public
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
           path: './public'
-          
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
