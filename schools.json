@@ -3513,5 +3513,254 @@
       ],
       "notices": [],
       "userCreated": false
-    }    
+    },
+    {
+      "name": "Hurlstone Agricultural High School",
+      "bellTimes": [
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 20
+          },
+          {
+            "name": "Transition",
+            "hour": 11,
+            "minute": 40
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 45
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 20
+          },
+          {
+            "name": "Transition",
+            "hour": 11,
+            "minute": 40
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 45
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 20
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 11,
+            "minute": 40
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 12,
+            "minute": 0
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 20
+          },
+          {
+            "name": "End",
+            "hour": 14,
+            "minute": 5
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 20
+          },
+          {
+            "name": "Transition",
+            "hour": 11,
+            "minute": 40
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 45
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Recess",
+            "hour": 10,
+            "minute": 0
+          },
+          {
+            "name": "Period 2",
+            "hour": 10,
+            "minute": 20
+          },
+          {
+            "name": "Transition",
+            "hour": 11,
+            "minute": 40
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 45
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
+        ]
+      ],
+      "links": [
+        {
+          "title": "Sentral",
+          "destination": "https://hahs.sentral.com.au/portal2/#!/login",
+          "icon": "link"
+        },
+        {
+          "title": "Newsletter",
+          "destination": "https://hurlstone-h.schools.nsw.gov.au/newsletter.html",
+          "icon": "link"
+        },
+        {
+          "title": "Student Portal",
+          "destination": "https://student.det.nsw.edu.au/",
+          "icon": "link"
+        }
+      ],
+      "notices": [],
+      "userCreated": false
+    }   
   ]
