@@ -4021,5 +4021,338 @@
       ],
       "notices": [],
       "userCreated": false
-    }    
+    },
+    {
+      "name": "Cheltenham Girls High School",
+      "bellTimes": [
+        [
+          {
+            "name": "Roll Call",
+            "hour": 8,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 45
+          },
+          {
+            "name": "Reading Group",
+            "hour": 10,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 5
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4/Lunch",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch/Sport",
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "hour": 8,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 45
+          },
+          {
+            "name": "Reading Group",
+            "hour": 10,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 5
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "hour": 8,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 45
+          },
+          {
+            "name": "Reading Group",
+            "hour": 10,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 5
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "hour": 8,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Reading Group",
+            "hour": 9,
+            "minute": 45
+          },
+          {
+            "name": "Assembly/Scripture",
+            "hour": 10,
+            "minute": 5
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 5
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "hour": 8,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 2",
+            "hour": 9,
+            "minute": 45
+          },
+          {
+            "name": "Reading Group",
+            "hour": 10,
+            "minute": 45
+          },
+          {
+            "name": "Recess",
+            "hour": 11,
+            "minute": 5
+          },
+          {
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 4",
+            "hour": 12,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 1",
+            "hour": 13,
+            "minute": 25
+          },
+          {
+            "name": "Lunch 2",
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "Period 5",
+            "hour": 14,
+            "minute": 5
+          },
+          {
+            "name": "End",
+            "hour": 15,
+            "minute": 5
+          }
+        ]
+      ],
+      "links": [
+        {
+          "title": "Newsletter",
+          "destination": "https://cheltenham-h.schools.nsw.gov.au/newsletter.html",
+          "icon": "link"
+        },
+        {
+          "title": "Calendars",
+          "destination": "https://cghs.sentral.com.au/webcal/",
+          "icon": "link"
+        },
+        {
+          "title": "Sentral",
+          "destination": "https://cghs.sentral.com.au/portal/login",
+          "icon": "link"
+        },
+        {
+          "title": "Intranet",
+          "destination": "http://web1.cheltenham-h.schools.nsw.edu.au/splashpage/student.html",
+          "icon": "link"
+        },
+        {
+          "title": "Wellbeing Hub",
+          "destination": "https://sites.google.com/education.nsw.gov.au/cghs-wellbeing-hub",
+          "icon": "link"
+        },
+        {
+          "title": "Science Hub",
+          "destination": "https://sites.google.com/education.nsw.gov.au/cghsscience/home",
+          "icon": "link"
+        },
+        {
+          "title": "Assessments",
+          "destination": "https://sites.google.com/education.nsw.gov.au/cghs-assessment/home?pli=1",
+          "icon": "link"
+        },
+        {
+          "title": "Home Learning",
+          "destination": "https://sites.google.com/education.nsw.gov.au/cghs-stayathome-hub",
+          "icon": "link"
+        },
+        {
+          "title": "Student Portal",
+          "destination": "https://portal.det.nsw.edu.au/",
+          "icon": "link"
+        }
+      ],
+      "notices": []
+    }        
   ]
