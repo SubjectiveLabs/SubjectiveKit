@@ -335,6 +335,9 @@
           "icon": "printer.fill"
         }
       ],
+      "location": "Baulkham Hills, NSW",
+      "latitude": -33.75194,
+      "longitude": 150.99063,
       "notices": [],
       "userCreated": false
     },
@@ -579,6 +582,9 @@
           "icon": "newspaper.fill"
         }
       ],
+      "location": "Carlingford, NSW",
+      "latitude": -33.78186390725677,
+      "longitude": 151.04232202380862,
       "notices": [],
       "userCreated": false
     },
@@ -836,13 +842,11 @@
           "title": "Calendar",
           "destination": "https://calendar.google.com/calendar/u/0/embed?src=jekdu3o5rdo1s47qvig65bbj3qgel1t5@import.calendar.google.com&ctz=Australia/Sydney",
           "icon": "calendar"
-        },
-        {
-          "title": "Newsletter",
-          "destination": "https://jamesruse-h.schools.nsw.gov.au/newsletter.html",
-          "icon": "newspaper.fill"
         }
       ],
+      "location": "Girraween, NSW",
+      "latitude": -33.79986799969102,
+      "longitude": 150.94451788324926,
       "notices": [],
       "userCreated": false
     },
@@ -1107,6 +1111,9 @@
           "icon": "newspaper.fill"
         }
       ],
+      "location": "Hornsby, NSW",
+      "latitude": -33.70608671891253,
+      "longitude": 151.1014518902019,
       "notices": [],
       "userCreated": false
     },
@@ -1425,6 +1432,9 @@
           "icon": "link"
         }
       ],
+      "location": "Chatswood, NSW",
+      "latitude": -33.79909552384441,
+      "longitude": 151.17529753971561,
       "notices": [],
       "userCreated": false
     },
@@ -1634,6 +1644,9 @@
           "icon": "link"
         }
       ],
+      "location": "Normanhurst, NSW",
+      "latitude": -33.723730648562125,
+      "longitude": 151.09740944060437,
       "notices": [],
       "userCreated": false
     },
@@ -1888,6 +1901,9 @@
           "icon": "link"
         }
       ],
+      "location": "Crestwood, NSW",
+      "latitude": -33.744066274364506,
+      "longitude": 150.97502699109253,
       "notices": [],
       "userCreated": false
     },
@@ -2167,6 +2183,9 @@
           "icon": "link"
         }
       ],
+      "location": "Glenwood, NSW",
+      "latitude": -33.73289110840351,
+      "longitude": 150.9373032645784,
       "notices": [],
       "userCreated": false
     },
@@ -2426,6 +2445,9 @@
           "icon": "link"
         }
       ],
+      "location": "Parramatta, NSW",
+      "latitude": -33.81797480733906,
+      "longitude": 150.9961127901457,
       "notices": [],
       "userCreated": false
     },
@@ -2785,6 +2807,9 @@
           "icon": "link"
         }
       ],
+      "location": "Sefton, NSW",
+      "latitude": -33.87952798858048,
+      "longitude": 151.00863622967003,
       "notices": [],
       "userCreated": false
     },
@@ -3192,6 +3217,9 @@
           "icon": "calendar"
         }
       ],
+      "location": "North Sydney, NSW",
+      "latitude": -33.82948338350156,
+      "longitude": 151.20767213159428,
       "notices": [],
       "userCreated": false
     },    
@@ -3511,6 +3539,9 @@
           "icon": "link"
         }
       ],
+      "location": "Baulkham Hills, NSW",
+      "latitude": -33.769078218469446,
+      "longitude": 150.97067368205109,
       "notices": [],
       "userCreated": false
     },
@@ -3760,6 +3791,9 @@
           "icon": "link"
         }
       ],
+      "location": "Glenfield, NSW",
+      "latitude": -33.96963522829742,
+      "longitude": 150.89143982666388,
       "notices": [],
       "userCreated": false
     },
@@ -4019,6 +4053,9 @@
           "icon": "link"
         }
       ],
+      "location": "Carlingford, NSW",
+      "latitude": -33.785089462585354,
+      "longitude": 151.0379790038232,
       "notices": [],
       "userCreated": false
     },
@@ -4353,6 +4390,10 @@
           "icon": "link"
         }
       ],
-      "notices": []
+      "location": "Cheltenham, NSW",
+      "latitude": -33.756534767348626,
+      "longitude": 151.07393033062104,
+      "notices": [],
+      "userCreated": false
     }        
   ]
