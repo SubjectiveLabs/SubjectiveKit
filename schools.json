@@ -4718,6 +4718,359 @@
       "notices": [],
       "userCreated": false,
       "version":"1.1"
-    }
-         
+    },
+    {
+      "bellTimes":[
+         [
+            {
+               "name":"Roll Call",
+               "enabled":true,
+               "hour":8,
+               "minute":10
+            },
+            {
+               "name":"Period 1",
+               "enabled":true,
+               "hour":8,
+               "minute":20
+            },
+            {
+               "name":"Period 2",
+               "enabled":true,
+               "hour":9,
+               "minute":10
+            },
+            {
+               "name":"Recess",
+               "enabled":true,
+               "hour":10,
+               "minute":0
+            },
+            {
+               "name":"Period 3",
+               "enabled":true,
+               "hour":10,
+               "minute":30
+            },
+            {
+               "name":"Period 4",
+               "enabled":true,
+               "hour":11,
+               "minute":20
+            },
+            {
+               "name":"Lunch",
+               "enabled":true,
+               "hour":12,
+               "minute":10
+            },
+            {
+               "name":"Period 5",
+               "enabled":true,
+               "hour":12,
+               "minute":40
+            },
+            {
+               "name":"Period 6",
+               "enabled":true,
+               "hour":13,
+               "minute":30
+            },
+            {
+               "name":"End",
+               "enabled":true,
+               "hour":14,
+               "minute":20
+            }
+         ],
+         [
+            {
+               "name":"Roll Call",
+               "enabled":true,
+               "hour":8,
+               "minute":10
+            },
+            {
+               "name":"Period 1",
+               "enabled":true,
+               "hour":8,
+               "minute":20
+            },
+            {
+               "name":"Period 2",
+               "enabled":true,
+               "hour":9,
+               "minute":10
+            },
+            {
+               "name":"Assembly",
+               "enabled":true,
+               "hour":9,
+               "minute":50
+            },
+            {
+               "name":"Recess",
+               "enabled":true,
+               "hour":10,
+               "minute":10
+            },
+            {
+               "name":"Period 3",
+               "enabled":true,
+               "hour":10,
+               "minute":40
+            },
+            {
+               "name":"Period 4",
+               "enabled":true,
+               "hour":11,
+               "minute":25
+            },
+            {
+               "name":"Lunch",
+               "enabled":true,
+               "hour":12,
+               "minute":10
+            },
+            {
+               "name":"Period 5",
+               "enabled":true,
+               "hour":12,
+               "minute":40
+            },
+            {
+               "name":"Period 6",
+               "enabled":true,
+               "hour":13,
+               "minute":30
+            },
+            {
+               "name":"End",
+               "enabled":true,
+               "hour":14,
+               "minute":20
+            },
+            {
+               "name":"Homework Centre",
+               "enabled":false,
+               "hour":15,
+               "minute":20
+            }
+         ],
+         [
+            {
+               "name":"Roll Call",
+               "enabled":true,
+               "hour":8,
+               "minute":10
+            },
+            {
+               "name":"Period 1",
+               "enabled":true,
+               "hour":8,
+               "minute":20
+            },
+            {
+               "name":"Period 2",
+               "enabled":true,
+               "hour":9,
+               "minute":10
+            },
+            {
+               "name":"Recess",
+               "enabled":true,
+               "hour":10,
+               "minute":0
+            },
+            {
+               "name":"Period 3",
+               "enabled":true,
+               "hour":10,
+               "minute":30
+            },
+            {
+               "name":"Period 4",
+               "enabled":true,
+               "hour":11,
+               "minute":20
+            },
+            {
+               "name":"Lunch",
+               "enabled":true,
+               "hour":12,
+               "minute":10
+            },
+            {
+               "name":"Period 5",
+               "enabled":true,
+               "hour":12,
+               "minute":40
+            },
+            {
+               "name":"Period 6",
+               "enabled":true,
+               "hour":13,
+               "minute":30
+            },
+            {
+               "name":"End",
+               "enabled":true,
+               "hour":14,
+               "minute":20
+            }
+         ],
+         [
+            {
+               "name":"Roll Call",
+               "enabled":true,
+               "hour":8,
+               "minute":10
+            },
+            {
+               "name":"Period 1",
+               "enabled":true,
+               "hour":8,
+               "minute":20
+            },
+            {
+               "name":"Period 2",
+               "enabled":true,
+               "hour":9,
+               "minute":10
+            },
+            {
+               "name":"Recess",
+               "enabled":true,
+               "hour":10,
+               "minute":0
+            },
+            {
+               "name":"Period 3",
+               "enabled":true,
+               "hour":10,
+               "minute":30
+            },
+            {
+               "name":"Period 4",
+               "enabled":true,
+               "hour":11,
+               "minute":20
+            },
+            {
+               "name":"Lunch",
+               "enabled":true,
+               "hour":12,
+               "minute":10
+            },
+            {
+               "name":"Period 5",
+               "enabled":true,
+               "hour":12,
+               "minute":40
+            },
+            {
+               "name":"Period 6",
+               "enabled":true,
+               "hour":13,
+               "minute":30
+            },
+            {
+               "name":"End",
+               "enabled":true,
+               "hour":14,
+               "minute":20
+            },
+            {
+               "name":"Homework Centre",
+               "enabled":false,
+               "hour":15,
+               "minute":20
+            }
+         ],
+         [
+            {
+               "name":"Roll Call",
+               "enabled":true,
+               "hour":8,
+               "minute":10
+            },
+            {
+               "name":"Period 1",
+               "enabled":true,
+               "hour":8,
+               "minute":20
+            },
+            {
+               "name":"Period 2",
+               "enabled":true,
+               "hour":9,
+               "minute":10
+            },
+            {
+               "name":"Period 3",
+               "enabled":true,
+               "hour":10,
+               "minute":0
+            },
+            {
+               "name":"Lunch",
+               "enabled":true,
+               "hour":10,
+               "minute":50
+            },
+            {
+               "name":"Period 4",
+               "enabled":true,
+               "hour":11,
+               "minute":20
+            },
+            {
+               "name":"Period 5",
+               "enabled":true,
+               "hour":12,
+               "minute":10
+            },
+            {
+               "name":"End",
+               "enabled":true,
+               "hour":13,
+               "minute":0
+            }
+         ]
+      ],
+      "latitude": -33.76214560381412,
+      "longitude": 150.91221010002027,
+      "links": [
+        {
+          "title": "Newsletter",
+          "destination": "https://blacktownb-h.schools.nsw.gov.au/newsletter.html",
+          "icon": "newspaper.fill"
+        },
+        {
+          "title": "Canteen Menu",
+          "destination": "https://blacktownb-h.schools.nsw.gov.au/content/dam/doe/sws/schools/b/blacktownb-h/bells-bits-and-bites/Canteen_Menu_2023-Healthy.jpg.thumb.1280.1280.jpg",
+          "icon": "fork.knife"
+        },
+        {
+          "title": "Bus Timetable",
+          "destination": "https://www.busways.com.au/sites/default/files/school_timetables/Blacktown_Boys_High_School.pdf",
+          "icon": "link"
+        },
+        {
+          "title": "Gallery",
+          "destination": "https://blacktownb-h.schools.nsw.gov.au/gallery.html",
+          "icon": "camera.fill"
+        },
+        {
+          "title": "DoE Portal",
+          "destination": "https://student.det.nsw.edu.au/",
+          "icon": "link"
+        }
+      ],
+      "location":"Blacktown, NSW",
+      "name":"Blacktown Boys High School",
+      "notices":[],
+      "userCreated": false,
+      "version":"1.1"
+   }     
   ]
