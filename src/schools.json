@@ -1,6 +1,9 @@
 [
   {
     "name": "Baulkham Hills High School",
+    "tags": [
+      "baulko"
+    ],
     "bellTimes": [
       [
         {
@@ -344,6 +347,9 @@
   },
   {
     "name": "James Ruse Agricultural High School",
+    "tags": [
+      "ruse"
+    ],
     "bellTimes": [
       [
         {
@@ -592,6 +598,9 @@
   },
   {
     "name": "Girraween High School",
+    "tags": [
+      "girra"
+    ],
     "bellTimes": [
       [
         {
@@ -855,6 +864,7 @@
   },
   {
     "name": "Hornsby Girls High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -1123,6 +1133,7 @@
   },
   {
     "name": "Chatswood High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -1445,6 +1456,7 @@
   },
   {
     "name": "Normanhurst Public School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -1658,6 +1670,7 @@
   },
   {
     "name": "Crestwood High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -1916,6 +1929,7 @@
   },
   {
     "name": "Glenwood High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -2199,6 +2213,7 @@
   },
   {
     "name": "Parramatta High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -2462,6 +2477,7 @@
   },
   {
     "name": "Sefton High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -2825,6 +2841,7 @@
   },
   {
     "name": "North Sydney Boys High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -3236,6 +3253,7 @@
   },
   {
     "name": "Model Farms High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -3559,6 +3577,7 @@
   },
   {
     "name": "Hurlstone Agricultural High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -3812,6 +3831,7 @@
   },
   {
     "name": "Cumberland High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -4075,6 +4095,7 @@
   },
   {
     "name": "Cheltenham Girls High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -4413,6 +4434,7 @@
   },
   {
     "name": "The Ponds High School",
+    "tags": [],
     "bellTimes": [
       [
         {
@@ -4720,6 +4742,7 @@
     "version": "1.1"
   },
   {
+    "tags": [],
     "bellTimes": [
       [
         {
