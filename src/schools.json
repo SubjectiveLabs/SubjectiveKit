@@ -343,7 +343,7 @@
     "longitude": 150.99063,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "James Ruse Agricultural High School",
@@ -594,7 +594,7 @@
     "longitude": 151.04232202380862,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Girraween High School",
@@ -860,7 +860,7 @@
     "longitude": 150.94451788324926,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Hornsby Girls High School",
@@ -1129,7 +1129,7 @@
     "longitude": 151.1014518902019,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Chatswood High School",
@@ -1452,7 +1452,7 @@
     "longitude": 151.17529753971561,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Normanhurst Public School",
@@ -1666,7 +1666,7 @@
     "longitude": 151.09740944060437,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Crestwood High School",
@@ -1925,7 +1925,7 @@
     "longitude": 150.97502699109253,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Glenwood High School",
@@ -2209,7 +2209,7 @@
     "longitude": 150.9373032645784,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Parramatta High School",
@@ -2473,7 +2473,7 @@
     "longitude": 150.9961127901457,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Sefton High School",
@@ -2837,7 +2837,7 @@
     "longitude": 151.00863622967003,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "North Sydney Boys High School",
@@ -3249,7 +3249,7 @@
     "longitude": 151.20767213159428,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Model Farms High School",
@@ -3573,7 +3573,7 @@
     "longitude": 150.97067368205109,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Hurlstone Agricultural High School",
@@ -3827,7 +3827,7 @@
     "longitude": 150.89143982666388,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Cumberland High School",
@@ -4091,7 +4091,7 @@
     "longitude": 151.0379790038232,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "Cheltenham Girls High School",
@@ -4430,7 +4430,7 @@
     "longitude": 151.07393033062104,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "name": "The Ponds High School",
@@ -4739,7 +4739,7 @@
     "longitude": 150.8976309422899,
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "tags": [],
@@ -5094,6 +5094,6 @@
     "name": "Blacktown Boys High School",
     "notices": [],
     "userCreated": false,
-    "version": "1.1"
+    "version": "1.2"
   }
 ]
