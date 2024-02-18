@@ -330,6 +330,11 @@
         "icon": "folder.fill"
       },
       {
+        "title": "Calendar",
+        "destination": "https://baulkham-h.sentral.com.au/webcal/calendar/5",
+        "icon": "clock.fill"
+      },
+      {
         "title": "Newsletter",
         "destination": "https://baulkham-h.schools.nsw.gov.au/newsletter.html",
         "icon": "newspaper.fill"
@@ -6244,6 +6249,793 @@
     "name": "Blacktown Boys High School",
     "notices": [],
     "userCreated": false,
+    "version": "1.2"
+  },
+  {
+    "bellTimes": {
+      "Week A": [
+        [
+          {
+            "name": "Period 0",
+            "enabled": false,
+            "hour": 7,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 9,
+            "minute": 44
+          },
+          {
+            "name": "Recess",
+            "enabled": true,
+            "hour": 10,
+            "minute": 48
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 8
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 12,
+            "minute": 12
+          },
+          {
+            "name": "Lunch 1",
+            "enabled": true,
+            "hour": 13,
+            "minute": 16
+          },
+          {
+            "name": "Lunch 2",
+            "enabled": true,
+            "hour": 13,
+            "minute": 36
+          },
+          {
+            "name": "Period 5",
+            "enabled": true,
+            "hour": 13,
+            "minute": 56
+          },
+          {
+            "name": "End",
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          },
+          {
+            "name": "Period 6",
+            "enabled": false,
+            "hour": 15,
+            "minute": 5
+          },
+          {
+            "name": "P6 End/Period 7",
+            "enabled": false,
+            "hour": 16,
+            "minute": 9
+          },
+          {
+            "name": "P7 End",
+            "enabled": false,
+            "hour": 17,
+            "minute": 13
+          }
+        ],
+        [
+          {
+            "name": "Period 0",
+            "enabled": false,
+            "hour": 7,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 9,
+            "minute": 44
+          },
+          {
+            "name": "Recess",
+            "enabled": true,
+            "hour": 10,
+            "minute": 48
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 8
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 12,
+            "minute": 12
+          },
+          {
+            "name": "Lunch 1",
+            "enabled": true,
+            "hour": 13,
+            "minute": 16
+          },
+          {
+            "name": "Lunch 2",
+            "enabled": true,
+            "hour": 13,
+            "minute": 36
+          },
+          {
+            "name": "Period 5",
+            "enabled": true,
+            "hour": 13,
+            "minute": 56
+          },
+          {
+            "name": "End",
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          },
+          {
+            "name": "Period 6",
+            "enabled": false,
+            "hour": 15,
+            "minute": 5
+          },
+          {
+            "name": "P6 End/Period 7",
+            "enabled": false,
+            "hour": 16,
+            "minute": 9
+          },
+          {
+            "name": "P7 End",
+            "enabled": false,
+            "hour": 17,
+            "minute": 13
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 9,
+            "minute": 36
+          },
+          {
+            "name": "Recess",
+            "enabled": true,
+            "hour": 10,
+            "minute": 32
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 10,
+            "minute": 52
+          },
+          {
+            "name": "Lunch 1",
+            "enabled": true,
+            "hour": 11,
+            "minute": 48
+          },
+          {
+            "name": "Lunch 2",
+            "enabled": true,
+            "hour": 12,
+            "minute": 8
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 12,
+            "minute": 30
+          },
+          {
+            "name": "Period 5",
+            "enabled": true,
+            "hour": 13,
+            "minute": 30
+          },
+          {
+            "name": "End",
+            "enabled": true,
+            "hour": 14,
+            "minute": 30
+          }
+        ],
+        [
+          {
+            "name": "Period 0",
+            "enabled": false,
+            "hour": 7,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 9,
+            "minute": 44
+          },
+          {
+            "name": "Recess",
+            "enabled": true,
+            "hour": 10,
+            "minute": 48
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 8
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 12,
+            "minute": 12
+          },
+          {
+            "name": "Lunch 1",
+            "enabled": true,
+            "hour": 13,
+            "minute": 16
+          },
+          {
+            "name": "Lunch 2",
+            "enabled": true,
+            "hour": 13,
+            "minute": 36
+          },
+          {
+            "name": "Period 5",
+            "enabled": true,
+            "hour": 13,
+            "minute": 56
+          },
+          {
+            "name": "End",
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          },
+          {
+            "name": "Period 6",
+            "enabled": false,
+            "hour": 15,
+            "minute": 5
+          },
+          {
+            "name": "P6 End/Period 7",
+            "enabled": false,
+            "hour": 16,
+            "minute": 9
+          },
+          {
+            "name": "P7 End",
+            "enabled": false,
+            "hour": 17,
+            "minute": 13
+          }
+        ],
+        [
+          {
+            "name": "Period 0",
+            "enabled": false,
+            "hour": 7,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 9,
+            "minute": 44
+          },
+          {
+            "name": "Recess",
+            "enabled": true,
+            "hour": 10,
+            "minute": 48
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 8
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 12,
+            "minute": 12
+          },
+          {
+            "name": "Lunch 1",
+            "enabled": true,
+            "hour": 13,
+            "minute": 16
+          },
+          {
+            "name": "Lunch 2",
+            "enabled": true,
+            "hour": 13,
+            "minute": 36
+          },
+          {
+            "name": "Period 5",
+            "enabled": true,
+            "hour": 13,
+            "minute": 56
+          },
+          {
+            "name": "End",
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          },
+          {
+            "name": "Period 6",
+            "enabled": false,
+            "hour": 15,
+            "minute": 5
+          },
+          {
+            "name": "P6 End/Period 7",
+            "enabled": false,
+            "hour": 16,
+            "minute": 9
+          },
+          {
+            "name": "P7 End",
+            "enabled": false,
+            "hour": 17,
+            "minute": 13
+          }
+        ]
+      ],
+      "Week B": [
+        [
+          {
+            "name": "Period 0",
+            "enabled": false,
+            "hour": 7,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 9,
+            "minute": 44
+          },
+          {
+            "name": "Recess",
+            "enabled": true,
+            "hour": 10,
+            "minute": 48
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 8
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 12,
+            "minute": 12
+          },
+          {
+            "name": "Lunch 1",
+            "enabled": true,
+            "hour": 13,
+            "minute": 16
+          },
+          {
+            "name": "Lunch 2",
+            "enabled": true,
+            "hour": 13,
+            "minute": 36
+          },
+          {
+            "name": "Period 5",
+            "enabled": true,
+            "hour": 13,
+            "minute": 56
+          },
+          {
+            "name": "End",
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          },
+          {
+            "name": "Period 6",
+            "enabled": false,
+            "hour": 15,
+            "minute": 5
+          },
+          {
+            "name": "P6 End/Period 7",
+            "enabled": false,
+            "hour": 16,
+            "minute": 9
+          },
+          {
+            "name": "P7 End",
+            "enabled": false,
+            "hour": 17,
+            "minute": 13
+          }
+        ],
+        [
+          {
+            "name": "Period 0",
+            "enabled": false,
+            "hour": 7,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 9,
+            "minute": 44
+          },
+          {
+            "name": "Recess",
+            "enabled": true,
+            "hour": 10,
+            "minute": 48
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 8
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 12,
+            "minute": 12
+          },
+          {
+            "name": "Lunch 1",
+            "enabled": true,
+            "hour": 13,
+            "minute": 16
+          },
+          {
+            "name": "Lunch 2",
+            "enabled": true,
+            "hour": 13,
+            "minute": 36
+          },
+          {
+            "name": "Period 5",
+            "enabled": true,
+            "hour": 13,
+            "minute": 56
+          },
+          {
+            "name": "End",
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          },
+          {
+            "name": "Period 6",
+            "enabled": false,
+            "hour": 15,
+            "minute": 5
+          },
+          {
+            "name": "P6 End/Period 7",
+            "enabled": false,
+            "hour": 16,
+            "minute": 9
+          },
+          {
+            "name": "P7 End",
+            "enabled": false,
+            "hour": 17,
+            "minute": 13
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 9,
+            "minute": 36
+          },
+          {
+            "name": "Recess",
+            "enabled": true,
+            "hour": 10,
+            "minute": 32
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 10,
+            "minute": 52
+          },
+          {
+            "name": "Lunch 1",
+            "enabled": true,
+            "hour": 11,
+            "minute": 48
+          },
+          {
+            "name": "Lunch 2",
+            "enabled": true,
+            "hour": 12,
+            "minute": 8
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 12,
+            "minute": 30
+          },
+          {
+            "name": "Period 5",
+            "enabled": true,
+            "hour": 13,
+            "minute": 30
+          },
+          {
+            "name": "End",
+            "enabled": true,
+            "hour": 14,
+            "minute": 30
+          }
+        ],
+        [
+          {
+            "name": "Period 0",
+            "enabled": false,
+            "hour": 7,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 9,
+            "minute": 33
+          },
+          {
+            "name": "Recess",
+            "enabled": true,
+            "hour": 10,
+            "minute": 26
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 10,
+            "minute": 46
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 11,
+            "minute": 39
+          },
+          {
+            "name": "Lunch 1",
+            "enabled": true,
+            "hour": 12,
+            "minute": 32
+          },
+          {
+            "name": "Lunch 2",
+            "enabled": true,
+            "hour": 12,
+            "minute": 53
+          },
+          {
+            "name": "Period 5",
+            "enabled": true,
+            "hour": 13,
+            "minute": 14
+          },
+          {
+            "name": "Period 6",
+            "enabled": true,
+            "hour": 14,
+            "minute": 7
+          },
+          {
+            "name": "End/Period 7",
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          },
+          {
+            "name": "P7 End",
+            "enabled": false,
+            "hour": 15,
+            "minute": 53
+          }
+        ],
+        [
+          {
+            "name": "Period 0",
+            "enabled": false,
+            "hour": 7,
+            "minute": 35
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 40
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 9,
+            "minute": 44
+          },
+          {
+            "name": "Recess",
+            "enabled": true,
+            "hour": 10,
+            "minute": 48
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 8
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 12,
+            "minute": 12
+          },
+          {
+            "name": "Lunch 1",
+            "enabled": true,
+            "hour": 13,
+            "minute": 16
+          },
+          {
+            "name": "Lunch 2",
+            "enabled": true,
+            "hour": 13,
+            "minute": 36
+          },
+          {
+            "name": "Period 5",
+            "enabled": true,
+            "hour": 13,
+            "minute": 56
+          },
+          {
+            "name": "End",
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          },
+          {
+            "name": "Period 6",
+            "enabled": false,
+            "hour": 15,
+            "minute": 5
+          },
+          {
+            "name": "P6 End/Period 7",
+            "enabled": false,
+            "hour": 16,
+            "minute": 9
+          },
+          {
+            "name": "P7 End",
+            "enabled": false,
+            "hour": 17,
+            "minute": 13
+          }
+        ]
+      ]
+    },
+    "latitude": -33.72180664379532,
+    "longitude": 151.10177688169153,
+    "links": [
+      {
+        "title": "Sentral",
+        "icon": "person.crop.square.filled.and.at.rectangle.fill",
+        "destination": "http://portal.nbhs.nsw.edu.au/"
+      },
+      {
+        "title": "Moodle",
+        "icon": "folder.fill",
+        "destination": "https://moodle.nbhs.nsw.edu.au/"
+      },
+      {
+        "title": "Newsletter",
+        "icon": "newspaper.fill",
+        "destination": "https://normanhurb-h.schools.nsw.gov.au/newsletter.html"
+      },
+      {
+        "title": "Printing",
+        "icon": "printer.fill",
+        "destination": "https://normanhurstboys.nsw.edu.au/student-printing"
+      },
+      {
+        "title": "Calendar",
+        "icon": "clock.fill",
+        "destination": "https://normanhurb-h.sentral.com.au/webcal/calendar/3"
+      }
+    ],
+    "location": "Normanhurst, NSW",
+    "name": "Normanhurst Boys High School",
+    "notices": [],
     "version": "1.2"
   }
 ]
