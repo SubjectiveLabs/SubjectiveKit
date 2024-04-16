@@ -7423,7 +7423,9 @@
       }
     ],
     "name": "Fairfield High School",
-    "tags": [],
+    "tags": [
+      "fairfield"
+    ],
     "notices": [],
     "version": "1.2"
   }
