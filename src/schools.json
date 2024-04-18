@@ -7790,5 +7790,1138 @@
     ],
     "notices": [],
     "version": "1.2"
+  },
+  {
+    "bellTimes": {
+      "Week A": [
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Pause",
+              "iconName": "pause.fill"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 15
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 30
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 50
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Pause",
+              "iconName": "pause.fill"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 15
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 30
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 50
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 30
+          },
+          {
+            "name": "Lunch +",
+            "enabled": true,
+            "hour": 11,
+            "minute": 45
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 12,
+            "minute": 5
+          },
+          {
+            "name": "Sport",
+            "enabled": true,
+            "hour": 12,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 14,
+            "minute": 25
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Pause",
+              "iconName": "pause.fill"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 15
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 30
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 50
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Pause",
+              "iconName": "pause.fill"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 15
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 30
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 50
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ]
+      ],
+      "Week B": [
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Pause",
+              "iconName": "pause.fill"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 15
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 30
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 50
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Pause",
+              "iconName": "pause.fill"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 15
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 30
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 50
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 30
+          },
+          {
+            "name": "Lunch +",
+            "enabled": true,
+            "hour": 11,
+            "minute": 45
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 12,
+            "minute": 5
+          },
+          {
+            "name": "Sport",
+            "enabled": true,
+            "hour": 12,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 14,
+            "minute": 25
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Pause",
+              "iconName": "pause.fill"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 15
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 30
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 50
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Pause",
+              "iconName": "pause.fill"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 15
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 30
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 50
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 5
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 45
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ]
+      ],
+      "Assembly Day": [
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Assembly",
+            "enabled": true,
+            "hour": 9,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 55
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 12,
+            "minute": 15
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 12,
+            "minute": 20
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 14,
+            "minute": 0
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Assembly",
+            "enabled": true,
+            "hour": 9,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 55
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 12,
+            "minute": 15
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 12,
+            "minute": 20
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 14,
+            "minute": 0
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Assembly",
+            "enabled": true,
+            "hour": 9,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 55
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 12,
+            "minute": 15
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 12,
+            "minute": 20
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 14,
+            "minute": 0
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Assembly",
+            "enabled": true,
+            "hour": 9,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 55
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 12,
+            "minute": 15
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 12,
+            "minute": 20
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 14,
+            "minute": 0
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ],
+        [
+          {
+            "name": "Roll Call",
+            "enabled": true,
+            "hour": 8,
+            "minute": 45
+          },
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 55
+          },
+          {
+            "name": "Assembly",
+            "enabled": true,
+            "hour": 9,
+            "minute": 55
+          },
+          {
+            "name": "Recess",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 55
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 11,
+            "minute": 15
+          },
+          {
+            "name": "Break",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 12,
+            "minute": 15
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 12,
+            "minute": 20
+          },
+          {
+            "name": "Lunch",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 14,
+            "minute": 0
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 15,
+            "minute": 0
+          }
+        ]
+      ]
+    },
+    "id": "60565777-8b1f-4f9c-ae94-9491ec6fb779",
+    "latitude": -33.96234153449067,
+    "longitude": 151.11449684386926,
+    "links": [
+      {
+        "title": "Sentral",
+        "icon": "person.crop.square.filled.and.at.rectangle.fill",
+        "destination": "https://sydneytech-h.sentral.com.au/auth/portal"
+      },
+      {
+        "title": "Intranet",
+        "icon": "folder.fill",
+        "destination": "https://web1.sydneytech-h.schools.nsw.edu.au/intranet/"
+      },
+      {
+        "title": "Newsletter",
+        "icon": "newspaper.fill",
+        "destination": "https://sydneytech-h.schools.nsw.gov.au/newsletter.html"
+      },
+      {
+        "title": "Events",
+        "icon": "clock.fill",
+        "destination": "https://sydneytech-h.schools.nsw.gov.au/events.html"
+      }
+    ],
+    "location": "Bexley, NSW",
+    "name": "Sydney Technical High School",
+    "tags": [
+      "sydney-tech"
+    ],
+    "notices": [],
+    "userCreated": false,
+    "version": "1.2"
   }
 ]
