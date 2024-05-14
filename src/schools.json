@@ -1339,7 +1339,9 @@
   },
   {
     "name": "Hornsby Girls High School",
-    "tags": [],
+    "tags": [
+      "hghs"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -1610,7 +1612,9 @@
   },
   {
     "name": "Chatswood High School",
-    "tags": [],
+    "tags": [
+      "chatswood"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -1935,7 +1939,9 @@
   },
   {
     "name": "Normanhurst Public School",
-    "tags": [],
+    "tags": [
+      "normo-public"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -2151,7 +2157,9 @@
   },
   {
     "name": "Crestwood High School",
-    "tags": [],
+    "tags": [
+      "crestwood"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -2412,7 +2420,9 @@
   },
   {
     "name": "Glenwood High School",
-    "tags": [],
+    "tags": [
+      "glenwood"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -2698,7 +2708,9 @@
   },
   {
     "name": "Parramatta High School",
-    "tags": [],
+    "tags": [
+      "parra"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -2964,7 +2976,9 @@
   },
   {
     "name": "Sefton High School",
-    "tags": [],
+    "tags": [
+      "sefton"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -3330,7 +3344,9 @@
   },
   {
     "name": "North Sydney Boys High School",
-    "tags": [],
+    "tags": [
+      "nsb"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -4134,7 +4150,9 @@
   },
   {
     "name": "Model Farms High School",
-    "tags": [],
+    "tags": [
+      "model-farms"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -4460,7 +4478,9 @@
   },
   {
     "name": "Hurlstone Agricultural High School",
-    "tags": [],
+    "tags": [
+      "hurlstone"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -4716,7 +4736,9 @@
   },
   {
     "name": "Cumberland High School",
-    "tags": [],
+    "tags": [
+      "cumberland"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -4982,7 +5004,9 @@
   },
   {
     "name": "Cheltenham Girls High School",
-    "tags": [],
+    "tags": [
+      "cheltenham-girls"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -5323,7 +5347,9 @@
   },
   {
     "name": "The Ponds High School",
-    "tags": [],
+    "tags": [
+      "ponds"
+    ],
     "bellTimes": {
       "Week A": [
         [
@@ -5895,7 +5921,6 @@
     "version": "1.2"
   },
   {
-    "tags": [],
     "bellTimes": {
       "Week A": [
         [
@@ -6247,6 +6272,9 @@
     ],
     "location": "Blacktown, NSW",
     "name": "Blacktown Boys High School",
+    "tags": [
+      "blacktown-boys"
+    ],
     "notices": [],
     "userCreated": false,
     "version": "1.2"
@@ -8890,7 +8918,6 @@
         ]
       ]
     },
-    "id": "60565777-8b1f-4f9c-ae94-9491ec6fb779",
     "latitude": -33.96234153449067,
     "longitude": 151.11449684386926,
     "links": [
@@ -8921,6 +8948,404 @@
       "sydney-tech"
     ],
     "notices": [],
+    "userCreated": false,
+    "version": "1.2"
+  },
+  {
+    "bellTimes": {
+      "Week A": [
+        [
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 25
+          },
+          {
+            "name": "Recess 1",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Recess 2",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 45
+          },
+          {
+            "name": "Lunch 1",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 0
+          },
+          {
+            "name": "Lunch 2",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 35
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 14,
+            "minute": 50
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 25
+          },
+          {
+            "name": "Recess 1",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Recess 2",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 45
+          },
+          {
+            "name": "Lunch 1",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 0
+          },
+          {
+            "name": "Lunch 2",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 35
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 14,
+            "minute": 50
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 9,
+            "minute": 0
+          },
+          {
+            "name": "Recess 1",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 10,
+            "minute": 20
+          },
+          {
+            "name": "Assembly",
+            "enabled": true,
+            "hour": 10,
+            "minute": 40
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 55
+          },
+          {
+            "name": "Lunch 1",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 12,
+            "minute": 10
+          },
+          {
+            "name": "Lunch 2",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 12,
+            "minute": 30
+          },
+          {
+            "name": "Sport",
+            "enabled": true,
+            "hour": 12,
+            "minute": 50
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 14,
+            "minute": 30
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 25
+          },
+          {
+            "name": "Recess 1",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Recess 2",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 45
+          },
+          {
+            "name": "Lunch 1",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 0
+          },
+          {
+            "name": "Lunch 2",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 35
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 14,
+            "minute": 50
+          }
+        ],
+        [
+          {
+            "name": "Period 1",
+            "enabled": true,
+            "hour": 8,
+            "minute": 25
+          },
+          {
+            "name": "Recess 1",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 9,
+            "minute": 50
+          },
+          {
+            "name": "Period 2",
+            "enabled": true,
+            "hour": 10,
+            "minute": 10
+          },
+          {
+            "name": "Recess 2",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 11,
+            "minute": 25
+          },
+          {
+            "name": "Period 3",
+            "enabled": true,
+            "hour": 11,
+            "minute": 45
+          },
+          {
+            "name": "Lunch 1",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 0
+          },
+          {
+            "name": "Lunch 2",
+            "bellType": {
+              "name": "Break",
+              "iconName": "fork.knife"
+            },
+            "enabled": true,
+            "hour": 13,
+            "minute": 20
+          },
+          {
+            "name": "Period 4",
+            "enabled": true,
+            "hour": 13,
+            "minute": 35
+          },
+          {
+            "name": "End",
+            "bellType": {
+              "name": "Time",
+              "iconName": "clock.fill"
+            },
+            "enabled": true,
+            "hour": 14,
+            "minute": 50
+          }
+        ]
+      ]
+    },
+    "latitude": -33.81271825233403,
+    "longitude": 150.94133620284978,
+    "links": [
+      {
+        "title": "Sentral",
+        "icon": "person.crop.square.filled.and.at.rectangle.fill",
+        "destination": "https://greystanes-h.sentral.com.au/auth/portal"
+      },
+      {
+        "title": "Events",
+        "icon": "clock.fill",
+        "destination": "https://greystanes-h.schools.nsw.gov.au/events.html"
+      }
+    ],
+    "location": "Greystanes, NSW",
+    "name": "Greystanes High School",
+    "notices": [],
+    "tags": [
+      "greystanes"
+    ],
     "userCreated": false,
     "version": "1.2"
   }
