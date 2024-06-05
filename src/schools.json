@@ -4594,23 +4594,18 @@
             "minute": 20
           },
           {
-            "name": "Lunch 1",
+            "name": "Transition",
             "hour": 11,
             "minute": 40
           },
           {
-            "name": "Lunch 2",
-            "hour": 12,
-            "minute": 0
-          },
-          {
-            "name": "Period 4",
-            "hour": 12,
-            "minute": 20
+            "name": "Period 3",
+            "hour": 11,
+            "minute": 45
           },
           {
             "name": "End",
-            "hour": 14,
+            "hour": 13,
             "minute": 5
           }
         ],
