@@ -3354,36 +3354,31 @@
             "name": "Period 0",
             "enabled": false,
             "hour": 8,
-            "minute": 0,
-            "id": "a2d30696-ab17-4b07-a228-ab24733fe238"
+            "minute": 0
           },
           {
             "name": "Period 1",
             "hour": 8,
             "minute": 50,
-            "enabled": true,
-            "id": "4753c2c9-56a9-4812-bebb-d271a27b5f57"
+            "enabled": true
           },
           {
             "name": "Period 2",
             "hour": 9,
             "minute": 45,
-            "enabled": true,
-            "id": "4ef651af-8573-4dcf-a338-a56d1b1fd151"
+            "enabled": true
           },
           {
             "name": "Assembly",
             "hour": 10,
             "minute": 30,
-            "enabled": true,
-            "id": "66a2c7d1-0cd5-48a5-b6d2-90bc4ef04ca4"
+            "enabled": true
           },
           {
             "name": "Recess",
             "hour": 11,
             "minute": 15,
             "enabled": true,
-            "id": "a66ed8af-cde2-4a75-90d5-d49c44028d7d",
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
@@ -3393,15 +3388,13 @@
             "name": "Period 3",
             "hour": 11,
             "minute": 35,
-            "enabled": true,
-            "id": "271e65f3-98ce-4b1a-a333-decfddc486ec"
+            "enabled": true
           },
           {
             "name": "Period 4",
             "hour": 12,
             "minute": 20,
-            "enabled": true,
-            "id": "6df5c6ce-6d88-42d2-ab33-d33039d0d232"
+            "enabled": true
           },
           {
             "name": "Lunch",
@@ -3411,22 +3404,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "9d286159-db6b-4cf2-b336-fd6dcc933db3"
+            }
           },
           {
             "name": "Period 5",
             "hour": 13,
             "minute": 45,
-            "enabled": true,
-            "id": "a228a4f9-084e-4d10-9ee5-55d371e52bac"
+            "enabled": true
           },
           {
             "name": "Period 6",
             "hour": 14,
             "minute": 30,
-            "enabled": true,
-            "id": "594824c7-fa15-4691-b51a-fb7221c48f0a"
+            "enabled": true
           },
           {
             "name": "End",
@@ -3436,8 +3426,7 @@
             "bellType": {
               "name": "Time",
               "iconName": "clock.fill"
-            },
-            "id": "9c1ed7e6-fba4-418f-a42b-fc6b26d2b359"
+            }
           }
         ],
         [
@@ -3445,22 +3434,19 @@
             "name": "Period 0",
             "enabled": false,
             "hour": 8,
-            "minute": 0,
-            "id": "9a9d3e07-d232-4717-a738-8e170ad497e9"
+            "minute": 0
           },
           {
             "name": "Period 1",
             "hour": 8,
             "minute": 50,
-            "enabled": true,
-            "id": "695045f9-f7ed-41f4-b0f9-e4d6fd9a9ff2"
+            "enabled": true
           },
           {
             "name": "Period 2",
             "hour": 9,
             "minute": 45,
-            "enabled": true,
-            "id": "00d4047f-ec43-427b-93b4-78a8a17311a8"
+            "enabled": true
           },
           {
             "name": "Recess",
@@ -3470,22 +3456,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "574d2610-9664-4d5a-99c1-21bb00a3f9c0"
+            }
           },
           {
             "name": "Period 3",
             "hour": 10,
             "minute": 50,
-            "enabled": true,
-            "id": "d4b79406-3ac1-4652-8f85-d7ae66d6f65e"
+            "enabled": true
           },
           {
             "name": "Period 4",
             "hour": 11,
             "minute": 35,
-            "enabled": true,
-            "id": "ef0052f8-ee44-42db-ae97-4b6ed2904ca1"
+            "enabled": true
           },
           {
             "name": "Lunch",
@@ -3495,22 +3478,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "10cb729e-1818-47ea-ba23-9c8e035aa356"
+            }
           },
           {
             "name": "Period 5",
             "hour": 13,
             "minute": 0,
-            "enabled": true,
-            "id": "b37ca46b-8b95-4466-915a-7052cd474ea3"
+            "enabled": true
           },
           {
             "name": "Period 6",
             "hour": 13,
             "minute": 45,
-            "enabled": true,
-            "id": "8367a353-1515-4efe-8707-90f1228100c2"
+            "enabled": true
           },
           {
             "name": "End",
@@ -3520,8 +3500,7 @@
             "bellType": {
               "name": "Time",
               "iconName": "clock.fill"
-            },
-            "id": "8b247468-33af-4a91-9459-5596794234b7"
+            }
           }
         ],
         [
@@ -3529,22 +3508,19 @@
             "name": "Period 0",
             "enabled": false,
             "hour": 8,
-            "minute": 0,
-            "id": "2b5fb2a4-4b3a-4a73-99ea-3239db43409f"
+            "minute": 0
           },
           {
             "name": "Period 1",
             "hour": 8,
             "minute": 50,
-            "enabled": true,
-            "id": "dd7c8704-52bd-43d8-b604-97bbb2c7c7ac"
+            "enabled": true
           },
           {
             "name": "Period 2",
             "hour": 9,
             "minute": 45,
-            "enabled": true,
-            "id": "762d96b9-a267-4bee-af68-02833288b3c7"
+            "enabled": true
           },
           {
             "name": "Recess",
@@ -3554,15 +3530,13 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "137fb1d1-192d-47dd-a4bd-4c5bd38ce269"
+            }
           },
           {
             "name": "Period 3",
             "hour": 10,
             "minute": 55,
-            "enabled": true,
-            "id": "6cb2e0b6-9c41-447a-b12b-daae82ca48b2"
+            "enabled": true
           },
           {
             "name": "Lunch",
@@ -3572,15 +3546,13 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "fd1a06ce-8a2f-47fb-a8fa-952ebc306050"
+            }
           },
           {
             "name": "Period 5",
             "hour": 12,
             "minute": 30,
-            "enabled": true,
-            "id": "d2543d95-366f-4da0-9a87-de1d584570d3"
+            "enabled": true
           },
           {
             "name": "End",
@@ -3590,8 +3562,7 @@
             "bellType": {
               "name": "Time",
               "iconName": "clock.fill"
-            },
-            "id": "c02e6577-6ffc-4334-b74e-939884dc3d8f"
+            }
           }
         ],
         [
@@ -3599,22 +3570,19 @@
             "name": "Period 0",
             "enabled": false,
             "hour": 8,
-            "minute": 0,
-            "id": "e548b51e-5214-4c78-ac3d-4d3c0ff11ba9"
+            "minute": 0
           },
           {
             "name": "Period 1",
             "hour": 8,
             "minute": 50,
-            "enabled": true,
-            "id": "6457bd08-c63b-44ed-90eb-18fa806eb7f7"
+            "enabled": true
           },
           {
             "name": "Period 2",
             "hour": 9,
             "minute": 45,
-            "enabled": true,
-            "id": "229788e4-dd75-4a3e-9fb3-c28dd3f21bb1"
+            "enabled": true
           },
           {
             "name": "Recess",
@@ -3624,22 +3592,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "840c19d6-b71e-4d7c-86fd-42e37b57981d"
+            }
           },
           {
             "name": "Period 3",
             "hour": 11,
             "minute": 0,
-            "enabled": true,
-            "id": "8726eb57-2d7b-4ef7-9b05-80ae0c05d84f"
+            "enabled": true
           },
           {
             "name": "Period 4",
             "hour": 11,
             "minute": 55,
-            "enabled": true,
-            "id": "e3a97f96-96df-4fe0-ad1a-6971e1f6b3ec"
+            "enabled": true
           },
           {
             "name": "Lunch",
@@ -3649,22 +3614,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "772275e4-137e-4de5-a641-bfd5a2fe3227"
+            }
           },
           {
             "name": "Period 5",
             "hour": 13,
             "minute": 30,
-            "enabled": true,
-            "id": "86b13067-abce-4c25-8cce-4eed51e9fc44"
+            "enabled": true
           },
           {
             "name": "Period 6",
             "hour": 14,
             "minute": 25,
-            "enabled": true,
-            "id": "280876de-94b6-44ed-928d-a6add8c8ca2c"
+            "enabled": true
           },
           {
             "name": "End",
@@ -3674,8 +3636,7 @@
             "bellType": {
               "name": "Time",
               "iconName": "clock.fill"
-            },
-            "id": "2b39d3a2-3035-48f6-ab05-6261aabb020a"
+            }
           }
         ],
         [
@@ -3683,43 +3644,37 @@
             "name": "Period 0",
             "enabled": false,
             "hour": 8,
-            "minute": 0,
-            "id": "f9b8bbff-76cb-4ef5-ba55-56b6d9f75b20"
+            "minute": 0
           },
           {
             "name": "Period 1",
             "hour": 8,
             "minute": 50,
-            "enabled": true,
-            "id": "55571a13-6e6e-4ffb-979b-d17518ca1e39"
+            "enabled": true
           },
           {
             "name": "Period 2",
             "hour": 9,
             "minute": 45,
-            "enabled": true,
-            "id": "125bc20c-1994-4084-902d-92b5838458af"
+            "enabled": true
           },
           {
             "name": "Recess",
             "hour": 10,
             "minute": 40,
-            "enabled": true,
-            "id": "b3451160-e4fd-46bf-acf0-9830cd8ab9c2"
+            "enabled": true
           },
           {
             "name": "Period 3",
             "hour": 11,
             "minute": 0,
-            "enabled": true,
-            "id": "85bfc8b6-b7f7-416e-9b1d-a71e77a72ea0"
+            "enabled": true
           },
           {
             "name": "Period 4",
             "hour": 11,
             "minute": 55,
-            "enabled": true,
-            "id": "07622762-cd0d-4312-9e83-5ff77dc1ace3"
+            "enabled": true
           },
           {
             "name": "Lunch",
@@ -3729,22 +3684,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "4fa3b437-223f-475b-9737-e6599a7f99ea"
+            }
           },
           {
             "name": "Period 5",
             "hour": 13,
             "minute": 30,
-            "enabled": true,
-            "id": "3217f5bc-21fe-4554-bb29-4706a2ce8722"
+            "enabled": true
           },
           {
             "name": "Period 6",
             "hour": 14,
             "minute": 25,
-            "enabled": true,
-            "id": "7ab67862-6034-4a30-bd9f-7919b0cf90c1"
+            "enabled": true
           },
           {
             "name": "End",
@@ -3754,8 +3706,7 @@
             "bellType": {
               "name": "Time",
               "iconName": "clock.fill"
-            },
-            "id": "952dabd6-18f6-4126-8011-68c48a9d5073"
+            }
           }
         ]
       ],
@@ -3765,43 +3716,37 @@
             "name": "Period 0",
             "enabled": false,
             "hour": 8,
-            "minute": 0,
-            "id": "a2d30696-ab17-4b07-a228-ab24733fe238"
+            "minute": 0
           },
           {
             "name": "Period 1",
             "hour": 8,
             "minute": 50,
-            "enabled": true,
-            "id": "4753c2c9-56a9-4812-bebb-d271a27b5f57"
+            "enabled": true
           },
           {
             "name": "Period 2",
             "hour": 9,
             "minute": 45,
-            "enabled": true,
-            "id": "4ef651af-8573-4dcf-a338-a56d1b1fd151"
+            "enabled": true
           },
           {
             "name": "Recess",
             "hour": 10,
             "minute": 30,
-            "enabled": true,
-            "id": "a66ed8af-cde2-4a75-90d5-d49c44028d7d"
+            "enabled": true
           },
           {
             "name": "Period 3",
             "hour": 11,
             "minute": 35,
-            "enabled": true,
-            "id": "271e65f3-98ce-4b1a-a333-decfddc486ec"
+            "enabled": true
           },
           {
             "name": "Period 4",
             "hour": 12,
             "minute": 20,
-            "enabled": true,
-            "id": "6df5c6ce-6d88-42d2-ab33-d33039d0d232"
+            "enabled": true
           },
           {
             "name": "Lunch",
@@ -3811,22 +3756,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "9d286159-db6b-4cf2-b336-fd6dcc933db3"
+            }
           },
           {
             "name": "Period 5",
             "hour": 13,
             "minute": 45,
-            "enabled": true,
-            "id": "a228a4f9-084e-4d10-9ee5-55d371e52bac"
+            "enabled": true
           },
           {
             "name": "Period 6",
             "hour": 14,
             "minute": 30,
-            "enabled": true,
-            "id": "594824c7-fa15-4691-b51a-fb7221c48f0a"
+            "enabled": true
           },
           {
             "name": "End",
@@ -3836,8 +3778,7 @@
             "bellType": {
               "name": "Time",
               "iconName": "clock.fill"
-            },
-            "id": "9c1ed7e6-fba4-418f-a42b-fc6b26d2b359"
+            }
           }
         ],
         [
@@ -3845,22 +3786,19 @@
             "name": "Period 0",
             "enabled": false,
             "hour": 8,
-            "minute": 0,
-            "id": "9a9d3e07-d232-4717-a738-8e170ad497e9"
+            "minute": 0
           },
           {
             "name": "Period 1",
             "hour": 8,
             "minute": 50,
-            "enabled": true,
-            "id": "695045f9-f7ed-41f4-b0f9-e4d6fd9a9ff2"
+            "enabled": true
           },
           {
             "name": "Period 2",
             "hour": 9,
             "minute": 45,
-            "enabled": true,
-            "id": "00d4047f-ec43-427b-93b4-78a8a17311a8"
+            "enabled": true
           },
           {
             "name": "Recess",
@@ -3870,22 +3808,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "574d2610-9664-4d5a-99c1-21bb00a3f9c0"
+            }
           },
           {
             "name": "Period 3",
             "hour": 10,
             "minute": 50,
-            "enabled": true,
-            "id": "d4b79406-3ac1-4652-8f85-d7ae66d6f65e"
+            "enabled": true
           },
           {
             "name": "Period 4",
             "hour": 11,
             "minute": 35,
-            "enabled": true,
-            "id": "ef0052f8-ee44-42db-ae97-4b6ed2904ca1"
+            "enabled": true
           },
           {
             "name": "Lunch",
@@ -3895,22 +3830,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "10cb729e-1818-47ea-ba23-9c8e035aa356"
+            }
           },
           {
             "name": "Period 5",
             "hour": 13,
             "minute": 0,
-            "enabled": true,
-            "id": "b37ca46b-8b95-4466-915a-7052cd474ea3"
+            "enabled": true
           },
           {
             "name": "Period 6",
             "hour": 13,
             "minute": 45,
-            "enabled": true,
-            "id": "8367a353-1515-4efe-8707-90f1228100c2"
+            "enabled": true
           },
           {
             "name": "End",
@@ -3920,8 +3852,7 @@
             "bellType": {
               "name": "Time",
               "iconName": "clock.fill"
-            },
-            "id": "8b247468-33af-4a91-9459-5596794234b7"
+            }
           }
         ],
         [
@@ -3929,22 +3860,19 @@
             "name": "Period 0",
             "enabled": false,
             "hour": 8,
-            "minute": 0,
-            "id": "2b5fb2a4-4b3a-4a73-99ea-3239db43409f"
+            "minute": 0
           },
           {
             "name": "Period 1",
             "hour": 8,
             "minute": 50,
-            "enabled": true,
-            "id": "dd7c8704-52bd-43d8-b604-97bbb2c7c7ac"
+            "enabled": true
           },
           {
             "name": "Period 2",
             "hour": 9,
             "minute": 45,
-            "enabled": true,
-            "id": "762d96b9-a267-4bee-af68-02833288b3c7"
+            "enabled": true
           },
           {
             "name": "Recess",
@@ -3954,15 +3882,13 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "137fb1d1-192d-47dd-a4bd-4c5bd38ce269"
+            }
           },
           {
             "name": "Period 3",
             "hour": 10,
             "minute": 55,
-            "enabled": true,
-            "id": "6cb2e0b6-9c41-447a-b12b-daae82ca48b2"
+            "enabled": true
           },
           {
             "name": "Lunch",
@@ -3972,15 +3898,13 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "fd1a06ce-8a2f-47fb-a8fa-952ebc306050"
+            }
           },
           {
             "name": "Period 5",
             "hour": 12,
             "minute": 30,
-            "enabled": true,
-            "id": "d2543d95-366f-4da0-9a87-de1d584570d3"
+            "enabled": true
           },
           {
             "name": "End",
@@ -3990,8 +3914,7 @@
             "bellType": {
               "name": "Time",
               "iconName": "clock.fill"
-            },
-            "id": "c02e6577-6ffc-4334-b74e-939884dc3d8f"
+            }
           }
         ],
         [
@@ -3999,22 +3922,19 @@
             "name": "Period 0",
             "enabled": false,
             "hour": 8,
-            "minute": 0,
-            "id": "e548b51e-5214-4c78-ac3d-4d3c0ff11ba9"
+            "minute": 0
           },
           {
             "name": "Period 1",
             "hour": 8,
             "minute": 50,
-            "enabled": true,
-            "id": "6457bd08-c63b-44ed-90eb-18fa806eb7f7"
+            "enabled": true
           },
           {
             "name": "Period 2",
             "hour": 9,
             "minute": 45,
-            "enabled": true,
-            "id": "229788e4-dd75-4a3e-9fb3-c28dd3f21bb1"
+            "enabled": true
           },
           {
             "name": "Recess",
@@ -4024,22 +3944,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "840c19d6-b71e-4d7c-86fd-42e37b57981d"
+            }
           },
           {
             "name": "Period 3",
             "hour": 11,
             "minute": 0,
-            "enabled": true,
-            "id": "8726eb57-2d7b-4ef7-9b05-80ae0c05d84f"
+            "enabled": true
           },
           {
             "name": "Period 4",
             "hour": 11,
             "minute": 55,
-            "enabled": true,
-            "id": "e3a97f96-96df-4fe0-ad1a-6971e1f6b3ec"
+            "enabled": true
           },
           {
             "name": "Lunch",
@@ -4049,22 +3966,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "772275e4-137e-4de5-a641-bfd5a2fe3227"
+            }
           },
           {
             "name": "Period 5",
             "hour": 13,
             "minute": 30,
-            "enabled": true,
-            "id": "86b13067-abce-4c25-8cce-4eed51e9fc44"
+            "enabled": true
           },
           {
             "name": "Period 6",
             "hour": 14,
             "minute": 25,
-            "enabled": true,
-            "id": "280876de-94b6-44ed-928d-a6add8c8ca2c"
+            "enabled": true
           },
           {
             "name": "End",
@@ -4074,8 +3988,7 @@
             "bellType": {
               "name": "Time",
               "iconName": "clock.fill"
-            },
-            "id": "2b39d3a2-3035-48f6-ab05-6261aabb020a"
+            }
           }
         ],
         [
@@ -4083,22 +3996,19 @@
             "name": "Period 0",
             "enabled": false,
             "hour": 8,
-            "minute": 0,
-            "id": "f9b8bbff-76cb-4ef5-ba55-56b6d9f75b20"
+            "minute": 0
           },
           {
             "name": "Period 1",
             "hour": 8,
             "minute": 50,
-            "enabled": true,
-            "id": "55571a13-6e6e-4ffb-979b-d17518ca1e39"
+            "enabled": true
           },
           {
             "name": "Period 2",
             "hour": 9,
             "minute": 45,
-            "enabled": true,
-            "id": "125bc20c-1994-4084-902d-92b5838458af"
+            "enabled": true
           },
           {
             "name": "Recess",
@@ -4108,22 +4018,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "b3451160-e4fd-46bf-acf0-9830cd8ab9c2"
+            }
           },
           {
             "name": "Period 3",
             "hour": 11,
             "minute": 0,
-            "enabled": true,
-            "id": "85bfc8b6-b7f7-416e-9b1d-a71e77a72ea0"
+            "enabled": true
           },
           {
             "name": "Period 4",
             "hour": 11,
             "minute": 55,
-            "enabled": true,
-            "id": "07622762-cd0d-4312-9e83-5ff77dc1ace3"
+            "enabled": true
           },
           {
             "name": "Lunch",
@@ -4133,22 +4040,19 @@
             "bellType": {
               "name": "Break",
               "iconName": "fork.knife"
-            },
-            "id": "4fa3b437-223f-475b-9737-e6599a7f99ea"
+            }
           },
           {
             "name": "Period 5",
             "hour": 13,
             "minute": 30,
-            "enabled": true,
-            "id": "3217f5bc-21fe-4554-bb29-4706a2ce8722"
+            "enabled": true
           },
           {
             "name": "Period 6",
             "hour": 14,
             "minute": 25,
-            "enabled": true,
-            "id": "7ab67862-6034-4a30-bd9f-7919b0cf90c1"
+            "enabled": true
           },
           {
             "name": "End",
@@ -4158,8 +4062,7 @@
             "bellType": {
               "name": "Time",
               "iconName": "clock.fill"
-            },
-            "id": "952dabd6-18f6-4126-8011-68c48a9d5073"
+            }
           }
         ]
       ]
