@@ -387,27 +387,32 @@
       {
         "title": "Sentral",
         "destination": "https://baulkham-h.sentral.com.au/portal2/",
-        "icon": "person.crop.square.filled.and.at.rectangle.fill"
+        "icon": "person.crop.square.filled.and.at.rectangle.fill",
+        "id": "718b2888-9ec1-4219-a206-a981c9393dd4"
       },
       {
         "title": "Moodle",
         "destination": "https://web1.baulkham-h.schools.nsw.edu.au/",
-        "icon": "folder.fill"
+        "icon": "folder.fill",
+        "id": "489d23d1-4e1b-4e22-97a1-a10df8c980e4"
       },
       {
         "title": "Calendar",
         "destination": "https://baulkham-h.sentral.com.au/webcal/calendar/5",
-        "icon": "clock.fill"
+        "icon": "clock.fill",
+        "id": "1d7dd97f-4bb3-4f2d-b2bb-77345b5ed0b1"
       },
       {
         "title": "Newsletter",
         "destination": "https://baulkham-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "newspaper.fill"
+        "icon": "newspaper.fill",
+        "id": "2f6a94b5-6824-451e-805c-2c60bfed3078"
       },
       {
         "title": "Printing",
         "destination": "http://10.209.96.176:9191/user",
-        "icon": "printer.fill"
+        "icon": "printer.fill",
+        "id": "dd756593-555e-4669-827c-75616997829a"
       }
     ],
     "location": "Baulkham Hills, NSW",
@@ -967,17 +972,20 @@
       {
         "title": "Sentral",
         "destination": "https://jamesruseahs.sentral.com.au/auth/portal",
-        "icon": "person.crop.square.filled.and.at.rectangle.fill"
+        "icon": "person.crop.square.filled.and.at.rectangle.fill",
+        "id": "92b6e2e1-8ffe-4677-a5e6-b4a481e5d895"
       },
       {
         "title": "Communication",
         "destination": "https://schoolsnsw.sharepoint.com/sites/JRComm",
-        "icon": "bubble.left.and.text.bubble.right.fill"
+        "icon": "bubble.left.and.text.bubble.right.fill",
+        "id": "38d81ad4-4fcb-4d68-9548-fb09c346358a"
       },
       {
         "title": "Newsletter",
         "destination": "https://jamesruse-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "newspaper.fill"
+        "icon": "newspaper.fill",
+        "id": "4d5f2008-d320-4737-b249-a35835d7a221"
       }
     ],
     "location": "Carlingford, NSW",
@@ -1585,12 +1593,14 @@
       {
         "title": "Sentral",
         "destination": "https://girraween-h.sentral.com.au/auth/portal#!/login",
-        "icon": "person.crop.square.filled.and.at.rectangle.fill"
+        "icon": "person.crop.square.filled.and.at.rectangle.fill",
+        "id": "7b182d66-9e52-469d-81e2-b315339df476"
       },
       {
         "title": "Calendar",
         "destination": "https://calendar.google.com/calendar/u/0/embed?src=jekdu3o5rdo1s47qvig65bbj3qgel1t5@import.calendar.google.com&ctz=Australia/Sydney",
-        "icon": "calendar"
+        "icon": "calendar",
+        "id": "5754c0d1-e474-412f-9c36-602c8cb2eeca"
       }
     ],
     "location": "Girraween, NSW",
@@ -1905,17 +1915,20 @@
       {
         "title": "Sentral",
         "destination": "https://hghs.sentral.com.au/portal2/#!/login",
-        "icon": "person.crop.square.filled.and.at.rectangle.fill"
+        "icon": "person.crop.square.filled.and.at.rectangle.fill",
+        "id": "966189aa-000b-43da-abca-0e836f27c2e6"
       },
       {
         "title": "Events",
         "destination": "https://hornsbygir-h.schools.nsw.gov.au/events.html",
-        "icon": "calendar"
+        "icon": "calendar",
+        "id": "b3d63d74-f028-4729-aa3d-11c9883f39d8"
       },
       {
         "title": "Newsletter",
         "destination": "https://hornsbygir-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "newspaper.fill"
+        "icon": "newspaper.fill",
+        "id": "edff25b5-49e0-4ce7-9052-ec9b5bfad4df"
       }
     ],
     "location": "Hornsby, NSW",
@@ -2293,17 +2306,20 @@
       {
         "title": "Sentral",
         "destination": "https://chatswood-h.sentral.com.au/portal2/",
-        "icon": "link"
+        "icon": "link",
+        "id": "46d3b782-be17-4693-8975-ba37a5d74b92"
       },
       {
         "title": "DoE Portal",
         "destination": "https://portal.det.nsw.edu.au/",
-        "icon": "link"
+        "icon": "link",
+        "id": "502d612a-0224-422c-9f58-17162fb8de3f"
       },
       {
         "title": "BYOD Program Information",
         "destination": "https://chatswood-h.schools.nsw.gov.au/about-our-school/byod-program.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "c033629b-528f-4dec-a5f8-4a2ec1925f97"
       }
     ],
     "location": "Chatswood, NSW",
@@ -2552,17 +2568,20 @@
       {
         "title": "DET Portal",
         "destination": "https://portal.education.nsw.gov.au/",
-        "icon": "link"
+        "icon": "link",
+        "id": "41939c62-e0f5-4069-b4fd-dbe459cfefca"
       },
       {
         "title": "Mathletics",
         "destination": "https://login.mathletics.com/",
-        "icon": "link"
+        "icon": "link",
+        "id": "3e355011-c835-447b-a05e-0f9e32ccb485"
       },
       {
         "title": "Wushka",
         "destination": "https://wushka.com.au/",
-        "icon": "link"
+        "icon": "link",
+        "id": "ba8c2f85-928c-45f2-8467-ecb6c967b8da"
       }
     ],
     "location": "Normanhurst, NSW",
@@ -2865,17 +2884,20 @@
       {
         "title": "Sentral",
         "destination": "https://crestwood-h.sentral.com.au/portal2/#!/login",
-        "icon": "link"
+        "icon": "link",
+        "id": "7efa0e8f-6d2e-434f-97a5-5a5c1a5d137a"
       },
       {
         "title": "Events",
         "destination": "https://crestwood-h.schools.nsw.gov.au/events.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "d7a238a4-7423-4d8f-b7dd-427061291a5e"
       },
       {
         "title": "Newsletter",
         "destination": "https://crestwood-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "081f2ded-126b-4fa0-a7c0-345d487ded81"
       }
     ],
     "location": "Crestwood, NSW",
@@ -3202,22 +3224,26 @@
       {
         "title": "Sentral",
         "destination": "https://glenwood-h.sentral.com.au/portal2/#!/login",
-        "icon": "link"
+        "icon": "link",
+        "id": "9722ce3e-ccb8-43ff-9dea-f87e7ca607e9"
       },
       {
         "title": "Events",
         "destination": "https://glenwood-h.schools.nsw.gov.au/events.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "490e8315-def8-4c61-8c2a-5d62d918cdae"
       },
       {
         "title": "Newsletter",
         "destination": "https://glenwood-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "567842b5-58e5-4a7c-97ab-138c79df3ac7"
       },
       {
         "title": "Oliver Library",
         "destination": "https://oliver43.library.det.nsw.edu.au/oliver/libraryHome.do",
-        "icon": "link"
+        "icon": "link",
+        "id": "0348fb2d-3c46-4a7a-a77c-989319645b65"
       }
     ],
     "location": "Glenwood, NSW",
@@ -3526,17 +3552,20 @@
       {
         "title": "Sentral",
         "destination": "https://parramatta-h.sentral.com.au/portal2/#!/login",
-        "icon": "link"
+        "icon": "link",
+        "id": "3b8572ef-39bb-41f6-b4be-daa31a700096"
       },
       {
         "title": "Newsletter",
         "destination": "https://parramatta-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "518fc404-6b9d-4af7-bb14-42666b35dd22"
       },
       {
         "title": "Student Portal",
         "destination": "https://portal.education.nsw.gov.au/",
-        "icon": "link"
+        "icon": "link",
+        "id": "7278a395-7273-460d-be0c-5d26e5726222"
       }
     ],
     "location": "Parramatta, NSW",
@@ -3960,12 +3989,14 @@
       {
         "title": "Newsletter",
         "destination": "https://sefton-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "60db4260-96c4-493f-be58-02df93ea6086"
       },
       {
         "title": "Student Portal",
         "destination": "https://portal.education.nsw.gov.au/",
-        "icon": "link"
+        "icon": "link",
+        "id": "77331bbc-74c8-49ff-9ccd-df2a8245b360"
       }
     ],
     "location": "Sefton, NSW",
@@ -4716,12 +4747,14 @@
       {
         "title": "Sentral",
         "destination": "https://northsydbo-h.sentral.com.au/portal2/#!/login",
-        "icon": "link"
+        "icon": "link",
+        "id": "e6046ed0-7682-484a-a87d-104d989363c4"
       },
       {
         "title": "Calendar",
         "destination": "https://calendar.google.com/calendar/u/0/embed?src=0b92ujvrq5m31d1upf4eb8eqkmpoh45j@import.calendar.google.com&ctz=Australia/Sydney",
-        "icon": "calendar"
+        "icon": "calendar",
+        "id": "06d11949-e963-4d40-bf95-870bf8fa3066"
       }
     ],
     "location": "North Sydney, NSW",
@@ -5089,27 +5122,32 @@
       {
         "title": "Sentral",
         "destination": "https://modelfarms-h.sentral.com.au/portal2/#!/login",
-        "icon": "link"
+        "icon": "link",
+        "id": "3d6ca219-eb4d-4886-9ab1-6ab9545b31eb"
       },
       {
         "title": "Newsletter",
         "destination": "https://modelfarms-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "9f02af84-56ba-4bf9-a240-eedeeb4ae536"
       },
       {
         "title": "Events",
         "destination": "https://modelfarms-h.schools.nsw.gov.au/events.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "27c7dde4-f0b0-4590-8150-3cf9c34f5459"
       },
       {
         "title": "Printing",
         "destination": "http://84994r1001ps001:9191/user",
-        "icon": "link"
+        "icon": "link",
+        "id": "991d5bea-ebee-472e-95a2-4f92fedc7d76"
       },
       {
         "title": "Student Portal",
         "destination": "https://portal.education.nsw.gov.au",
-        "icon": "link"
+        "icon": "link",
+        "id": "df04e4c8-b9b3-4be1-a3a2-d80fed280582"
       }
     ],
     "location": "Baulkham Hills, NSW",
@@ -5400,17 +5438,20 @@
       {
         "title": "Sentral",
         "destination": "https://hahs.sentral.com.au/portal2/#!/login",
-        "icon": "link"
+        "icon": "link",
+        "id": "a7cbed7b-0464-4f70-a49f-e3539d15e10d"
       },
       {
         "title": "Newsletter",
         "destination": "https://hurlstone-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "9f33eb6b-5a6b-4b9a-b6aa-18d5bcb91971"
       },
       {
         "title": "Student Portal",
         "destination": "https://student.det.nsw.edu.au/",
-        "icon": "link"
+        "icon": "link",
+        "id": "3ae3000b-b5b3-4744-b7ee-314af1a5d91a"
       }
     ],
     "location": "Glenfield, NSW",
@@ -5719,17 +5760,20 @@
       {
         "title": "Newsletter",
         "destination": "https://cumberland-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "c7b55985-9323-4907-87b2-bce45bd4f829"
       },
       {
         "title": "Events",
         "destination": "https://cumberland-h.schools.nsw.gov.au/events.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "5ad5da27-fba2-4b29-9110-9f5a5629c8d5"
       },
       {
         "title": "Careers",
         "destination": "https://www.cumberlandhighcareers.com",
-        "icon": "link"
+        "icon": "link",
+        "id": "b92aefaa-fcdc-4530-83b1-fc2474ca3347"
       }
     ],
     "location": "Carlingford, NSW",
@@ -6092,47 +6136,56 @@
       {
         "title": "Newsletter",
         "destination": "https://cheltenham-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "ee5e072f-191a-4d4c-ab7b-e5b19ff5effd"
       },
       {
         "title": "Calendars",
         "destination": "https://cghs.sentral.com.au/webcal/",
-        "icon": "link"
+        "icon": "link",
+        "id": "a79525f7-ac6a-45c6-a86a-341dfd79356d"
       },
       {
         "title": "Sentral",
         "destination": "https://cghs.sentral.com.au/portal/login",
-        "icon": "link"
+        "icon": "link",
+        "id": "7c3d0201-165a-461c-b81e-befdc1e9cdd6"
       },
       {
         "title": "Intranet",
         "destination": "http://web1.cheltenham-h.schools.nsw.edu.au/splashpage/student.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "292cd26e-5e48-4b97-a513-e083e02c5a20"
       },
       {
         "title": "Wellbeing Hub",
         "destination": "https://sites.google.com/education.nsw.gov.au/cghs-wellbeing-hub",
-        "icon": "link"
+        "icon": "link",
+        "id": "d4b3eb2f-4b8b-4a4b-93ce-2593d0356af0"
       },
       {
         "title": "Science Hub",
         "destination": "https://sites.google.com/education.nsw.gov.au/cghsscience/home",
-        "icon": "link"
+        "icon": "link",
+        "id": "d0c208f2-3d42-4012-85bd-0d4863b4d615"
       },
       {
         "title": "Assessments",
         "destination": "https://sites.google.com/education.nsw.gov.au/cghs-assessment/home?pli=1",
-        "icon": "link"
+        "icon": "link",
+        "id": "d6a3ee72-1f35-4257-900c-7a69f284317f"
       },
       {
         "title": "Home Learning",
         "destination": "https://sites.google.com/education.nsw.gov.au/cghs-stayathome-hub",
-        "icon": "link"
+        "icon": "link",
+        "id": "351f7752-82ba-4702-a478-4b61721d6e58"
       },
       {
         "title": "Student Portal",
         "destination": "https://portal.det.nsw.edu.au/",
-        "icon": "link"
+        "icon": "link",
+        "id": "27b91c7f-2012-473f-9b68-6b3f1e65c1a2"
       }
     ],
     "location": "Cheltenham, NSW",
@@ -6788,37 +6841,44 @@
       {
         "title": "Newsletter",
         "destination": "https://theponds-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "f96b7b87-745e-4dee-ba0d-2345cf1baf0c"
       },
       {
         "title": "Sentral",
         "destination": "https://tphs.sentral.com.au/portal2/#!/login",
-        "icon": "link"
+        "icon": "link",
+        "id": "4fa97598-1d3d-4f98-92dc-ab1c7e8c16d7"
       },
       {
         "title": "Canvas",
         "destination": "https://theponds-h.instructure.com/",
-        "icon": "link"
+        "icon": "link",
+        "id": "6ba03d19-1065-4949-a9ee-d515db97120c"
       },
       {
         "title": "Careers",
         "destination": "https://www.thepondshighcareers.com/",
-        "icon": "link"
+        "icon": "link",
+        "id": "c02d41ee-41e2-44e3-ade5-d057affd87c9"
       },
       {
         "title": "School News",
         "destination": "https://theponds-h.schools.nsw.gov.au/news.html",
-        "icon": "link"
+        "icon": "link",
+        "id": "92a82fa7-8c35-4bd7-abf4-1792bb8917e9"
       },
       {
         "title": "Oliver Library",
         "destination": "https://oliver-1.library.det.nsw.edu.au/4/home/browse/list",
-        "icon": "link"
+        "icon": "link",
+        "id": "61fcbe59-6b5a-4fc9-bf0c-d808fde4ed89"
       },
       {
         "title": "DoE Portal",
         "destination": "https://student.det.nsw.edu.au/",
-        "icon": "link"
+        "icon": "link",
+        "id": "d3bce4d6-1fa5-4a68-9682-b69bc53698a6"
       }
     ],
     "location": "The Ponds, NSW",
@@ -7212,27 +7272,32 @@
       {
         "title": "Newsletter",
         "destination": "https://blacktownb-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "newspaper.fill"
+        "icon": "newspaper.fill",
+        "id": "3e2a8279-7f34-412b-a1ae-62c888ce3527"
       },
       {
         "title": "Canteen Menu",
         "destination": "https://blacktownb-h.schools.nsw.gov.au/content/dam/doe/sws/schools/b/blacktownb-h/bells-bits-and-bites/Canteen_Menu_2023-Healthy.jpg.thumb.1280.1280.jpg",
-        "icon": "fork.knife"
+        "icon": "fork.knife",
+        "id": "dc4f181b-1745-4713-b835-806531d4f3ea"
       },
       {
         "title": "Bus Timetable",
         "destination": "https://www.busways.com.au/sites/default/files/school_timetables/Blacktown_Boys_High_School.pdf",
-        "icon": "link"
+        "icon": "link",
+        "id": "aa836c82-e021-4232-bfe5-746da1e85cac"
       },
       {
         "title": "Gallery",
         "destination": "https://blacktownb-h.schools.nsw.gov.au/gallery.html",
-        "icon": "camera.fill"
+        "icon": "camera.fill",
+        "id": "dfd40cf6-a368-4038-96a3-3f8878603da6"
       },
       {
         "title": "DoE Portal",
         "destination": "https://student.det.nsw.edu.au/",
-        "icon": "link"
+        "icon": "link",
+        "id": "29e5dc73-5b19-4e93-9b78-e8d81ccbb9ee"
       }
     ],
     "location": "Blacktown, NSW",
@@ -8135,27 +8200,32 @@
       {
         "title": "Sentral",
         "icon": "person.crop.square.filled.and.at.rectangle.fill",
-        "destination": "http://portal.nbhs.nsw.edu.au/"
+        "destination": "http://portal.nbhs.nsw.edu.au/",
+        "id": "fadf9928-8d82-4b84-8d19-dcc617be6f2a"
       },
       {
         "title": "Moodle",
         "icon": "folder.fill",
-        "destination": "https://moodle.nbhs.nsw.edu.au/"
+        "destination": "https://moodle.nbhs.nsw.edu.au/",
+        "id": "efff0a69-ff42-4ac7-858d-63cecea1a00d"
       },
       {
         "title": "Newsletter",
         "icon": "newspaper.fill",
-        "destination": "https://normanhurb-h.schools.nsw.gov.au/newsletter.html"
+        "destination": "https://normanhurb-h.schools.nsw.gov.au/newsletter.html",
+        "id": "45a5561d-9eae-4c32-8489-838cef5d3661"
       },
       {
         "title": "Classroom",
         "icon": "book.fill",
-        "destination": "https://classroom.google.com/"
+        "destination": "https://classroom.google.com/",
+        "id": "0c5b36db-ad8a-4a13-89dc-5e5ea4ea4a55"
       },
       {
         "title": "Calendar",
         "icon": "clock.fill",
-        "destination": "https://normanhurb-h.sentral.com.au/webcal/calendar/3"
+        "destination": "https://normanhurb-h.sentral.com.au/webcal/calendar/3",
+        "id": "97e883bf-600d-43bf-8911-9f0f7c9e59f8"
       }
     ],
     "location": "Normanhurst, NSW",
@@ -9020,12 +9090,14 @@
       {
         "title": "Newsletter",
         "icon": "newspaper.fill",
-        "destination": "https://fairfield-h.schools.nsw.gov.au/newsletter.html"
+        "destination": "https://fairfield-h.schools.nsw.gov.au/newsletter.html",
+        "id": "3bb22f26-89e2-48f4-b7cd-85bee3b51124"
       },
       {
         "title": "Portal",
         "icon": "person.crop.square.filled.and.at.rectangle.fill",
-        "destination": "https://portal.det.nsw.edu.au/"
+        "destination": "https://portal.det.nsw.edu.au/",
+        "id": "7e8eb018-d07a-4863-b7d3-748e2c7891c4"
       }
     ],
     "name": "Fairfield High School",
@@ -10294,22 +10366,26 @@
       {
         "title": "Sentral",
         "icon": "person.crop.square.filled.and.at.rectangle.fill",
-        "destination": "https://sydneytech-h.sentral.com.au/auth/portal"
+        "destination": "https://sydneytech-h.sentral.com.au/auth/portal",
+        "id": "42023ba8-cc5d-4426-a960-a1b3149e18b6"
       },
       {
         "title": "Intranet",
         "icon": "folder.fill",
-        "destination": "https://web1.sydneytech-h.schools.nsw.edu.au/intranet/"
+        "destination": "https://web1.sydneytech-h.schools.nsw.edu.au/intranet/",
+        "id": "c78c5b98-3380-4e9a-bd02-db25bec83fa4"
       },
       {
         "title": "Newsletter",
         "icon": "newspaper.fill",
-        "destination": "https://sydneytech-h.schools.nsw.gov.au/newsletter.html"
+        "destination": "https://sydneytech-h.schools.nsw.gov.au/newsletter.html",
+        "id": "48552b2f-9e80-49dc-9dfa-f1cae7617b40"
       },
       {
         "title": "Events",
         "icon": "clock.fill",
-        "destination": "https://sydneytech-h.schools.nsw.gov.au/events.html"
+        "destination": "https://sydneytech-h.schools.nsw.gov.au/events.html",
+        "id": "b7279bef-d629-42bc-8b19-4e7330210df6"
       }
     ],
     "location": "Bexley, NSW",
@@ -10752,12 +10828,14 @@
       {
         "title": "Sentral",
         "icon": "person.crop.square.filled.and.at.rectangle.fill",
-        "destination": "https://greystanes-h.sentral.com.au/auth/portal"
+        "destination": "https://greystanes-h.sentral.com.au/auth/portal",
+        "id": "d0c7be5c-8d15-4db8-b00f-4051b54b09b6"
       },
       {
         "title": "Events",
         "icon": "clock.fill",
-        "destination": "https://greystanes-h.schools.nsw.gov.au/events.html"
+        "destination": "https://greystanes-h.schools.nsw.gov.au/events.html",
+        "id": "39c4b7a9-51bd-4863-80d3-742a763ba588"
       }
     ],
     "location": "Greystanes, NSW",
