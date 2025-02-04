@@ -4,424 +4,713 @@
     "tags": [
       "baulko"
     ],
+    "links": [
+      {
+        "id": "4afb5078-0c7e-499b-953d-17cdebba1d28",
+        "icon": "folder.fill",
+        "title": "Moodle",
+        "destination": "https://web1.baulkham-h.schools.nsw.edu.au/"
+      },
+      {
+        "id": "d70abb10-bcdf-475a-8c5a-227e34451a4d",
+        "icon": "clock.fill",
+        "title": "Calendar",
+        "destination": "https://baulkham-h.sentral.com.au/webcal/calendar/5"
+      },
+      {
+        "id": "a578ee61-ee8c-4592-8029-04f1f55d0a56",
+        "icon": "newspaper.fill",
+        "title": "Newsletter",
+        "destination": "https://baulkham-h.schools.nsw.gov.au/newsletter.html"
+      },
+      {
+        "id": "b1506145-a110-445f-92d1-2d5455693228",
+        "icon": "person.crop.square.filled.and.at.rectangle.fill",
+        "title": "Sentral",
+        "destination": "https://baulkham-h.sentral.com.au/portal2/"
+      },
+      {
+        "id": "20599e00-85ae-4a12-9c13-3dedba86c7a5",
+        "icon": "printer.fill",
+        "title": "Printing",
+        "destination": "http://10.209.96.176:9191/user"
+      }
+    ],
+    "notices": [],
+    "version": "2",
+    "latitude": -33.75194,
+    "location": "Baulkham Hills, NSW",
     "bellTimes": [
       {
         "id": "f395c777-0f78-44e5-8423-92817296cd3a",
-        "name": "Week A",
         "days": [
           [
             {
-              "name": "Period 1",
+              "id": "af319bd5-1c1f-4e9e-a039-33d04ce7b9f7",
               "hour": 8,
+              "name": "Roll Call",
               "minute": 38,
-              "id": "a34ebada-9703-4b6d-bf4b-727b1ff9e304"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 2",
+              "id": "a34ebada-9703-4b6d-bf4b-727b1ff9e304",
+              "hour": 8,
+              "name": "Period 1",
+              "minute": 44,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "2a18131d-4f07-449d-b969-cf0f5ae28f7e",
               "hour": 9,
-              "minute": 17,
-              "id": "2a18131d-4f07-449d-b969-cf0f5ae28f7e"
+              "name": "Period 2",
+              "minute": 23,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
+              "id": "e040d3bd-7009-4c5e-8263-a75983c57784",
+              "hour": 10,
               "name": "Assembly",
-              "hour": 9,
-              "minute": 54,
-              "id": "e040d3bd-7009-4c5e-8263-a75983c57784"
+              "minute": 0,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
+              "id": "c09c77cd-3678-40bb-8199-916983050a4f",
+              "hour": 10,
               "name": "Recess",
-              "hour": 10,
-              "minute": 19,
-              "id": "c09c77cd-3678-40bb-8199-916983050a4f"
+              "minute": 24,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 3",
+              "id": "5b151a36-3f93-4492-bb16-93cccdb91c33",
               "hour": 10,
+              "name": "Period 3",
+              "minute": 43,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "aeec526d-ce28-41a6-95a4-9908f025c5a2",
+              "hour": 11,
+              "name": "Period 4",
+              "minute": 20,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "944c2ee3-bef3-4e53-bcf7-076c888ca4a7",
+              "hour": 11,
+              "name": "Break",
+              "minute": 57,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "d17b58d3-1e6c-42d8-9b97-2ef6e6a71e23",
+              "hour": 12,
+              "name": "Period 5",
+              "minute": 2,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "ddc78929-b4dc-45bc-ae20-7ac52c54ef93",
+              "hour": 12,
+              "name": "Period 6",
               "minute": 39,
-              "id": "5b151a36-3f93-4492-bb16-93cccdb91c33"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 4",
-              "hour": 11,
+              "id": "f871a515-d8ec-4f8c-8186-5bc10ed88b07",
+              "hour": 13,
+              "name": "Lunch",
               "minute": 16,
-              "id": "aeec526d-ce28-41a6-95a4-9908f025c5a2"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Break",
-              "hour": 11,
-              "minute": 53,
-              "id": "944c2ee3-bef3-4e53-bcf7-076c888ca4a7"
-            },
-            {
-              "name": "Period 5",
-              "hour": 11,
-              "minute": 58,
-              "id": "d17b58d3-1e6c-42d8-9b97-2ef6e6a71e23"
-            },
-            {
-              "name": "Period 6",
-              "hour": 12,
-              "minute": 35,
-              "id": "ddc78929-b4dc-45bc-ae20-7ac52c54ef93"
-            },
-            {
-              "name": "Lunch",
+              "id": "d7c6ec8f-8156-4161-9dd2-cd8b6168b4ea",
               "hour": 13,
-              "minute": 12,
-              "id": "f871a515-d8ec-4f8c-8186-5bc10ed88b07"
-            },
-            {
               "name": "Period 7",
-              "hour": 13,
               "minute": 52,
-              "id": "d7c6ec8f-8156-4161-9dd2-cd8b6168b4ea"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 8",
+              "id": "f9f19b0b-57e0-487e-aeec-bbc0d3a517b7",
               "hour": 14,
+              "name": "Period 8",
               "minute": 29,
-              "id": "f9f19b0b-57e0-487e-aeec-bbc0d3a517b7"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "End",
+              "id": "7ce59a01-d2ac-42ac-aed1-3e9180020cfc",
               "hour": 15,
+              "name": "End",
               "minute": 6,
-              "id": "7ce59a01-d2ac-42ac-aed1-3e9180020cfc"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             }
           ],
           [
             {
-              "name": "Period 1",
+              "id": "a62db7fd-4fa5-40cc-a02b-5fc9cc6acb4c",
               "hour": 8,
+              "name": "Roll Call",
               "minute": 38,
-              "id": "a62db7fd-4fa5-40cc-a02b-5fc9cc6acb4c"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 2",
-              "hour": 9,
-              "minute": 21,
-              "id": "b6acca05-4e5d-4bb1-9585-f9876d449ae9"
-            },
-            {
-              "name": "Recess",
-              "hour": 10,
-              "minute": 1,
-              "id": "b428c647-c413-4048-8109-6e9eb9061b57"
-            },
-            {
-              "name": "Period 3",
-              "hour": 10,
-              "minute": 21,
-              "id": "5f973f0f-d4a6-41f1-97e0-5ae49f09df48"
-            },
-            {
-              "name": "Period 4",
-              "hour": 11,
-              "minute": 1,
-              "id": "3dcf779e-3629-45fa-b405-5d8dfca0472f"
-            },
-            {
-              "name": "Break",
-              "hour": 11,
-              "minute": 41,
-              "id": "c2501f77-ddf0-4f5a-9e4a-b37bcb696838"
-            },
-            {
-              "name": "Period 5",
-              "hour": 11,
-              "minute": 46,
-              "id": "da702b67-fc4c-447a-828c-12e59a8237d6"
-            },
-            {
-              "name": "Period 6",
-              "hour": 12,
-              "minute": 26,
-              "id": "9266ec86-7484-416d-ba77-091a8020d4b3"
-            },
-            {
-              "name": "Lunch",
-              "hour": 13,
-              "minute": 6,
-              "id": "1ebdc915-b0d5-455b-88d2-ebf9b79d8891"
-            },
-            {
-              "name": "Period 7",
-              "hour": 13,
-              "minute": 46,
-              "id": "dec80298-7323-46d5-876e-ba05149e04f2"
-            },
-            {
-              "name": "Period 8",
-              "hour": 14,
-              "minute": 26,
-              "id": "97f8ea34-f9a4-417b-9738-635dec4c4c84"
-            },
-            {
-              "name": "End",
-              "hour": 15,
-              "minute": 6,
-              "id": "a07ef833-f70d-493a-a2df-c62ef5b17c0e"
-            }
-          ],
-          [
-            {
-              "name": "Period 1",
+              "id": "de7f232d-d48d-483d-b5a5-ccf4afa5bae1",
               "hour": 8,
-              "minute": 38,
-              "id": "24f5a84e-887f-49bb-9622-090308432e8b"
+              "name": "Period 1",
+              "minute": 44,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
+              "id": "b6acca05-4e5d-4bb1-9585-f9876d449ae9",
+              "hour": 9,
               "name": "Period 2",
-              "hour": 9,
-              "minute": 18,
-              "id": "4be1b6f6-b9d2-49a0-9b93-fa918aa02b02"
+              "minute": 26,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
+              "id": "b428c647-c413-4048-8109-6e9eb9061b57",
+              "hour": 10,
               "name": "Recess",
-              "hour": 9,
-              "minute": 56,
-              "id": "423eea00-c2be-41c2-985e-57dfeb10150d"
+              "minute": 6,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
+              "id": "5f973f0f-d4a6-41f1-97e0-5ae49f09df48",
+              "hour": 10,
               "name": "Period 3",
-              "hour": 10,
-              "minute": 11,
-              "id": "0caad112-9fca-4a12-aaf2-9919236b75bc"
+              "minute": 25,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 4",
-              "hour": 10,
-              "minute": 49,
-              "id": "16313b53-bb84-47e4-b166-691e65d1f117"
-            },
-            {
-              "name": "Period 5",
+              "id": "3dcf779e-3629-45fa-b405-5d8dfca0472f",
               "hour": 11,
-              "minute": 27,
-              "id": "9996c320-74d7-464b-a2e4-1d210d843ee4"
-            },
-            {
-              "name": "Lunch",
-              "hour": 12,
+              "name": "Period 4",
               "minute": 5,
-              "id": "505e54c2-44d6-4c44-9a18-47deeb6d48ca"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Sport/Period 6",
-              "hour": 12,
-              "minute": 30,
-              "id": "38510023-5c4a-41ab-876c-05a5741147f2"
+              "id": "c2501f77-ddf0-4f5a-9e4a-b37bcb696838",
+              "hour": 11,
+              "name": "Break",
+              "minute": 45,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 7",
-              "hour": 13,
-              "minute": 11,
-              "id": "689b8719-63b2-4886-ba43-0b43911e3168"
-            },
-            {
-              "name": "Period 8",
-              "hour": 13,
+              "id": "da702b67-fc4c-447a-828c-12e59a8237d6",
+              "hour": 11,
+              "name": "Period 5",
               "minute": 50,
-              "id": "87256b08-23c6-4b70-8df0-b7d65f5f7444"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "End",
-              "hour": 14,
+              "id": "9266ec86-7484-416d-ba77-091a8020d4b3",
+              "hour": 12,
+              "name": "Period 6",
               "minute": 30,
-              "id": "bc78d69b-bc1e-4380-a0a4-e5fbe36bc030"
-            }
-          ],
-          [
-            {
-              "name": "Period 1",
-              "hour": 8,
-              "minute": 38,
-              "id": "9245d1b1-11fe-41de-939d-4d7ef8743d76"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 2",
-              "hour": 9,
-              "minute": 21,
-              "id": "b2e69dca-3fe2-4ac6-a78f-488e98981839"
-            },
-            {
-              "name": "Recess",
-              "hour": 10,
-              "minute": 1,
-              "id": "6774f68e-784e-49f0-a088-57e80dc94804"
-            },
-            {
-              "name": "Period 3",
-              "hour": 10,
-              "minute": 21,
-              "id": "5121bb87-4a31-4441-9703-d493e5ee5822"
-            },
-            {
-              "name": "Period 4",
-              "hour": 11,
-              "minute": 1,
-              "id": "ec5e66e0-4cfe-487f-b24d-8f7cf5e9fd6a"
-            },
-            {
-              "name": "Break",
-              "hour": 11,
-              "minute": 41,
-              "id": "025e3d9f-8440-45c7-bfe1-36335718d537"
-            },
-            {
-              "name": "Period 5",
-              "hour": 11,
-              "minute": 46,
-              "id": "34539791-925a-446e-964e-353846c12d1f"
-            },
-            {
-              "name": "Period 6",
-              "hour": 12,
-              "minute": 26,
-              "id": "45a48220-bbce-420a-bc11-344142a37537"
-            },
-            {
-              "name": "Lunch",
+              "id": "1ebdc915-b0d5-455b-88d2-ebf9b79d8891",
               "hour": 13,
-              "minute": 6,
-              "id": "074eb02e-f3fa-4c41-8058-ef533871523d"
+              "name": "Lunch",
+              "minute": 10,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
+              "id": "dec80298-7323-46d5-876e-ba05149e04f2",
+              "hour": 13,
               "name": "Period 7",
-              "hour": 13,
               "minute": 46,
-              "id": "b6b78fd3-73ea-4ff1-b20e-86967acdad3e"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 8",
+              "id": "97f8ea34-f9a4-417b-9738-635dec4c4c84",
               "hour": 14,
+              "name": "Period 8",
               "minute": 26,
-              "id": "37667a2e-9217-46b8-9e43-7c2ce46ace6a"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "End",
+              "id": "a07ef833-f70d-493a-a2df-c62ef5b17c0e",
               "hour": 15,
+              "name": "End",
               "minute": 6,
-              "id": "1f389c5e-1b19-47c6-8008-abba9c697fd1"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             }
           ],
           [
             {
-              "name": "Period 1",
+              "id": "24f5a84e-887f-49bb-9622-090308432e8b",
               "hour": 8,
+              "name": "Roll Call",
               "minute": 38,
-              "id": "ca47fb8a-466d-451f-bf62-1b51fbd9d35a"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 2",
+              "id": "212c7fdc-ec1d-493f-8eee-1ffd2ec58076",
+              "hour": 8,
+              "name": "Period 1",
+              "minute": 44,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "4be1b6f6-b9d2-49a0-9b93-fa918aa02b02",
               "hour": 9,
-              "minute": 21,
-              "id": "c7fa79bb-24ff-4c79-9d65-f5343fc20460"
+              "name": "Period 2",
+              "minute": 23,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
+              "id": "423eea00-c2be-41c2-985e-57dfeb10150d",
+              "hour": 10,
               "name": "Recess",
-              "hour": 10,
-              "minute": 1,
-              "id": "d86eae59-8b75-4e07-a173-c0fcb86e27b5"
+              "minute": 0,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
+              "id": "0caad112-9fca-4a12-aaf2-9919236b75bc",
+              "hour": 10,
               "name": "Period 3",
+              "minute": 15,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "16313b53-bb84-47e4-b166-691e65d1f117",
               "hour": 10,
-              "minute": 26,
-              "id": "261cac83-1a55-4e51-9c2a-0cc2199d8fce"
-            },
-            {
               "name": "Period 4",
-              "hour": 11,
-              "minute": 6,
-              "id": "dd2d6128-6f84-491b-9319-20a4479fb0d2"
+              "minute": 52,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Break",
+              "id": "9996c320-74d7-464b-a2e4-1d210d843ee4",
               "hour": 11,
-              "minute": 46,
-              "id": "bdcaf929-1dce-4b7a-8007-9a70154db29f"
-            },
-            {
               "name": "Period 5",
-              "hour": 11,
-              "minute": 51,
-              "id": "3aaca7ca-5fb9-4b74-889c-f00089da5aee"
+              "minute": 29,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 6",
+              "id": "505e54c2-44d6-4c44-9a18-47deeb6d48ca",
               "hour": 12,
-              "minute": 31,
-              "id": "1e0a4d98-09ec-49a0-9f36-efb198808294"
+              "name": "Lunch",
+              "minute": 6,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Lunch",
+              "id": "38510023-5c4a-41ab-876c-05a5741147f2",
+              "hour": 12,
+              "name": "Sport/Period 6",
+              "minute": 39,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "689b8719-63b2-4886-ba43-0b43911e3168",
               "hour": 13,
+              "name": "Period 7",
+              "minute": 16,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "87256b08-23c6-4b70-8df0-b7d65f5f7444",
+              "hour": 13,
+              "name": "Period 8",
+              "minute": 53,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "bc78d69b-bc1e-4380-a0a4-e5fbe36bc030",
+              "hour": 14,
+              "name": "End",
+              "minute": 30,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            }
+          ],
+          [
+            {
+              "id": "9245d1b1-11fe-41de-939d-4d7ef8743d76",
+              "hour": 8,
+              "name": "Roll Call",
+              "minute": 38,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "34436763-3b58-4184-aad0-2fc14028d1ab",
+              "hour": 8,
+              "name": "Period 1",
+              "minute": 44,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "b2e69dca-3fe2-4ac6-a78f-488e98981839",
+              "hour": 9,
+              "name": "Period 2",
+              "minute": 26,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "6774f68e-784e-49f0-a088-57e80dc94804",
+              "hour": 10,
+              "name": "Recess",
+              "minute": 6,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "5121bb87-4a31-4441-9703-d493e5ee5822",
+              "hour": 10,
+              "name": "Period 3",
+              "minute": 25,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "ec5e66e0-4cfe-487f-b24d-8f7cf5e9fd6a",
+              "hour": 11,
+              "name": "Period 4",
+              "minute": 5,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "025e3d9f-8440-45c7-bfe1-36335718d537",
+              "hour": 11,
+              "name": "Break",
+              "minute": 45,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "34539791-925a-446e-964e-353846c12d1f",
+              "hour": 11,
+              "name": "Period 5",
+              "minute": 50,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "45a48220-bbce-420a-bc11-344142a37537",
+              "hour": 12,
+              "name": "Period 6",
+              "minute": 30,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "074eb02e-f3fa-4c41-8058-ef533871523d",
+              "hour": 13,
+              "name": "Lunch",
+              "minute": 10,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "b6b78fd3-73ea-4ff1-b20e-86967acdad3e",
+              "hour": 13,
+              "name": "Period 7",
+              "minute": 46,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "37667a2e-9217-46b8-9e43-7c2ce46ace6a",
+              "hour": 14,
+              "name": "Period 8",
+              "minute": 26,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "1f389c5e-1b19-47c6-8008-abba9c697fd1",
+              "hour": 15,
+              "name": "End",
+              "minute": 6,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            }
+          ],
+          [
+            {
+              "id": "ca47fb8a-466d-451f-bf62-1b51fbd9d35a",
+              "hour": 8,
+              "name": "Roll Call",
+              "minute": 38,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "e83ef349-7b8e-4bb4-9de4-2d8ad1be21c4",
+              "hour": 8,
+              "name": "Period 1",
+              "minute": 44,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "c7fa79bb-24ff-4c79-9d65-f5343fc20460",
+              "hour": 9,
+              "name": "Period 2",
+              "minute": 26,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "d86eae59-8b75-4e07-a173-c0fcb86e27b5",
+              "hour": 10,
+              "name": "Recess",
+              "minute": 5,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "261cac83-1a55-4e51-9c2a-0cc2199d8fce",
+              "hour": 10,
+              "name": "Period 3",
+              "minute": 30,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "dd2d6128-6f84-491b-9319-20a4479fb0d2",
+              "hour": 11,
+              "name": "Period 4",
+              "minute": 9,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "bdcaf929-1dce-4b7a-8007-9a70154db29f",
+              "hour": 11,
+              "name": "Break",
+              "minute": 48,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "3aaca7ca-5fb9-4b74-889c-f00089da5aee",
+              "hour": 11,
+              "name": "Period 5",
+              "minute": 53,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "1e0a4d98-09ec-49a0-9f36-efb198808294",
+              "hour": 12,
+              "name": "Period 6",
+              "minute": 32,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "3e040387-5066-4ce7-8113-aa6f4f8e9236",
+              "hour": 13,
+              "name": "Lunch",
               "minute": 11,
-              "id": "3e040387-5066-4ce7-8113-aa6f4f8e9236"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 7",
+              "id": "69d9b1da-5fd5-4f3d-aac9-c015ec57bd62",
               "hour": 13,
-              "minute": 46,
-              "id": "69d9b1da-5fd5-4f3d-aac9-c015ec57bd62"
+              "name": "Period 7",
+              "minute": 47,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "Period 8",
+              "id": "db4cc7db-80e4-43e0-bb96-ac40a431c95a",
               "hour": 14,
-              "minute": 26,
-              "id": "db4cc7db-80e4-43e0-bb96-ac40a431c95a"
+              "name": "Period 8",
+              "minute": 27,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             },
             {
-              "name": "End",
+              "id": "ebd6460c-2ce3-4b85-a7c8-3468039d0a2c",
               "hour": 15,
+              "name": "End",
               "minute": 6,
-              "id": "ebd6460c-2ce3-4b85-a7c8-3468039d0a2c"
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
             }
           ]
         ],
+        "name": "Week A",
         "cyclical": true
       }
     ],
-    "links": [
-      {
-        "title": "Sentral",
-        "destination": "https://baulkham-h.sentral.com.au/portal2/",
-        "icon": "person.crop.square.filled.and.at.rectangle.fill",
-        "id": "b1506145-a110-445f-92d1-2d5455693228"
-      },
-      {
-        "title": "Moodle",
-        "destination": "https://web1.baulkham-h.schools.nsw.edu.au/",
-        "icon": "folder.fill",
-        "id": "4afb5078-0c7e-499b-953d-17cdebba1d28"
-      },
-      {
-        "title": "Calendar",
-        "destination": "https://baulkham-h.sentral.com.au/webcal/calendar/5",
-        "icon": "clock.fill",
-        "id": "d70abb10-bcdf-475a-8c5a-227e34451a4d"
-      },
-      {
-        "title": "Newsletter",
-        "destination": "https://baulkham-h.schools.nsw.gov.au/newsletter.html",
-        "icon": "newspaper.fill",
-        "id": "a578ee61-ee8c-4592-8029-04f1f55d0a56"
-      },
-      {
-        "title": "Printing",
-        "destination": "http://10.209.96.176:9191/user",
-        "icon": "printer.fill",
-        "id": "20599e00-85ae-4a12-9c13-3dedba86c7a5"
-      }
-    ],
-    "location": "Baulkham Hills, NSW",
-    "latitude": -33.75194,
     "longitude": 150.99063,
-    "notices": [],
-    "userCreated": false,
-    "version": "2",
-    "id": "a318d636-da7e-4601-b517-15cb8f26032b"
+    "userCreated": false
   },
   {
     "name": "James Ruse Agricultural High School",
