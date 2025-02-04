@@ -392,8 +392,18 @@
             {
               "id": "505e54c2-44d6-4c44-9a18-47deeb6d48ca",
               "hour": 12,
-              "name": "Lunch",
+              "name": "Lunch 1",
               "minute": 6,
+              "enabled": true,
+              "bellType": null,
+              "location": "",
+              "subjectID": null
+            },
+            {
+              "id": "a54281cd-da8b-4cb8-8105-04e276ea735e",
+              "hour": 12,
+              "name": "Lunch 2",
+              "minute": 20,
               "enabled": true,
               "bellType": null,
               "location": "",
